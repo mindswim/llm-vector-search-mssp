@@ -1,0 +1,5537 @@
+Title: Must Be Nice w/ Matt McCusker and Wes Rowlands
+Description: We celebrate one year of Dad Meat by welcoming Matt McCusker and Wes Rowlands back and we quickly get our birds filthy with discussion on the state of programming harder. Celebrate our peenceañera with us and give yourself something to listen to while you inch closer and closer to sucking yourself sideways.
+
+Join the Dad Meat Patreon for part 2 of this episode and tons more content for as little as $1 a month. Wow.
+
+https://www.patreon.com/dadmeatpodcast
+
+WEBVTT
+
+00:00:00.080 --> 00:00:01.360
+been told now and saying like oh we
+
+00:00:01.360 --> 00:00:03.439
+should get that going sometime but like
+
+00:00:03.439 --> 00:00:05.279
+having having someone just say it out
+
+00:00:05.279 --> 00:00:06.799
+loud was like yeah why shouldn't we do
+
+00:00:06.799 --> 00:00:07.759
+that
+
+00:00:07.759 --> 00:00:09.840
+and then behold it's been the most
+
+00:00:09.840 --> 00:00:11.120
+fulfilling year of my life
+
+00:00:11.120 --> 00:00:13.519
+so thank you yeah i'm on a big
+
+00:00:13.519 --> 00:00:15.040
+potentiality kick right now
+
+00:00:15.040 --> 00:00:16.240
+when like you know there's a person
+
+00:00:16.240 --> 00:00:17.440
+there's like the stuff they have
+
+00:00:17.440 --> 00:00:18.720
+currently going on but then there's
+
+00:00:18.720 --> 00:00:19.520
+always
+
+00:00:19.520 --> 00:00:21.039
+a bunch of stuff they could be doing and
+
+00:00:21.039 --> 00:00:22.480
+it's like it's pretty crazy to think of
+
+00:00:22.480 --> 00:00:23.680
+all the stuff you
+
+00:00:23.680 --> 00:00:25.680
+haven't done just because of you know x
+
+00:00:25.680 --> 00:00:27.439
+y and z typically usually it's like well
+
+00:00:27.439 --> 00:00:28.400
+i don't want to get someone to like
+
+00:00:28.400 --> 00:00:30.240
+break my balls or i don't want to suck
+
+00:00:30.240 --> 00:00:32.960
+you know or this or that but it's like
+
+00:00:32.960 --> 00:00:34.160
+you know it sucks because there you
+
+00:00:34.160 --> 00:00:35.280
+could be doing a million different
+
+00:00:35.280 --> 00:00:36.399
+things
+
+00:00:36.399 --> 00:00:38.399
+dude the training wheels came off i
+
+00:00:38.399 --> 00:00:39.920
+would say maybe about
+
+00:00:39.920 --> 00:00:41.360
+by about three months in actually i
+
+00:00:41.360 --> 00:00:42.960
+think it was the meeting at your house
+
+00:00:42.960 --> 00:00:44.719
+wets which really
+
+00:00:44.719 --> 00:00:47.520
+sent things in a whole [ __ ] you know
+
+00:00:47.520 --> 00:00:48.000
+just
+
+00:00:48.000 --> 00:00:49.360
+just pedal to the mellow just really
+
+00:00:49.360 --> 00:00:50.800
+send us in a direction that we couldn't
+
+00:00:50.800 --> 00:00:51.920
+come back from
+
+00:00:51.920 --> 00:00:53.280
+and at that point it was just like [ __ ]
+
+00:00:53.280 --> 00:00:54.719
+it well i'm just going to do everything
+
+00:00:54.719 --> 00:00:56.399
+i want to do
+
+00:00:56.399 --> 00:00:58.879
+and hell yeah man it's just itemizing
+
+00:00:58.879 --> 00:01:00.239
+itemizing everything
+
+00:01:00.239 --> 00:01:02.559
+and then having to to rethink everything
+
+00:01:02.559 --> 00:01:04.720
+on the fly considering the restrictions
+
+00:01:04.720 --> 00:01:06.240
+um which is one of the first things i
+
+00:01:06.240 --> 00:01:07.439
+wanted to talk about with you guys i
+
+00:01:07.439 --> 00:01:08.479
+wanted to ask you
+
+00:01:08.479 --> 00:01:11.520
+how have your goals changed um
+
+00:01:11.520 --> 00:01:14.799
+since the year has progressed
+
+00:01:15.200 --> 00:01:18.080
+yeah matt before matt answers i want to
+
+00:01:18.080 --> 00:01:18.960
+rudely uh
+
+00:01:18.960 --> 00:01:22.080
+interrupt because i do feel like um
+
+00:01:22.080 --> 00:01:24.640
+an enormous thank you i mean you guys
+
+00:01:24.640 --> 00:01:26.000
+are lumping me in the in the category
+
+00:01:26.000 --> 00:01:27.680
+with matt but i i don't deserve that
+
+00:01:27.680 --> 00:01:29.360
+spot um i think
+
+00:01:29.360 --> 00:01:31.119
+i'm just guessing that all three of us
+
+00:01:31.119 --> 00:01:32.880
+the only reason that we're even on this
+
+00:01:32.880 --> 00:01:33.520
+thing
+
+00:01:33.520 --> 00:01:35.439
+and doing the things that we're doing is
+
+00:01:35.439 --> 00:01:36.960
+solely because of matt
+
+00:01:36.960 --> 00:01:39.360
+um so that's cool so thank you brother
+
+00:01:39.360 --> 00:01:40.640
+yeah that rules
+
+00:01:40.640 --> 00:01:42.000
+appreciate that guys yeah i don't know
+
+00:01:42.000 --> 00:01:44.000
+you know i'm fluffy yeah yeah
+
+00:01:44.000 --> 00:01:46.799
+he's going to say no no whatever yeah
+
+00:01:46.799 --> 00:01:48.399
+yeah i'm not here to [ __ ]
+
+00:01:48.399 --> 00:01:51.119
+meet yesterday every once in a while
+
+00:01:51.119 --> 00:01:52.240
+dude
+
+00:01:52.240 --> 00:01:53.600
+just take a look down and give give
+
+00:01:53.600 --> 00:01:55.439
+yourself one i would say
+
+00:01:55.439 --> 00:01:57.280
+i'm not being 100 serious right now at
+
+00:01:57.280 --> 00:01:59.119
+least once every fortnight
+
+00:01:59.119 --> 00:02:00.640
+you should make an earnest attempt to
+
+00:02:00.640 --> 00:02:02.799
+suck your own meat true
+
+00:02:02.799 --> 00:02:04.960
+just one pump you might never get there
+
+00:02:04.960 --> 00:02:08.079
+but i mean like just get like
+
+00:02:09.360 --> 00:02:10.879
+tear something tear something in your
+
+00:02:10.879 --> 00:02:12.400
+abdomen trying to suck your own meat
+
+00:02:12.400 --> 00:02:13.599
+fortnightly
+
+00:02:13.599 --> 00:02:15.520
+true and just watch how it changes your
+
+00:02:15.520 --> 00:02:17.440
+perspective
+
+00:02:17.440 --> 00:02:19.599
+year two is all about if you're not
+
+00:02:19.599 --> 00:02:21.040
+trying to suck your own meat
+
+00:02:21.040 --> 00:02:23.280
+and failing you're off the wagon dude
+
+00:02:23.280 --> 00:02:24.319
+you're off the trail
+
+00:02:24.319 --> 00:02:25.920
+see you later i don't know if you guys
+
+00:02:25.920 --> 00:02:27.680
+know this but at urgent care they will
+
+00:02:27.680 --> 00:02:30.720
+remove up to two ribs
+
+00:02:31.120 --> 00:02:32.800
+it's elective so your insurance might
+
+00:02:32.800 --> 00:02:34.239
+not cover it but
+
+00:02:34.239 --> 00:02:35.920
+i might just give myself a quick pump
+
+00:02:35.920 --> 00:02:38.080
+just [ __ ]
+
+00:02:38.080 --> 00:02:40.000
+uh someone's about to see this two pump
+
+00:02:40.000 --> 00:02:40.670
+chubs
+
+00:02:40.670 --> 00:02:43.680
+[Laughter]
+
+00:02:43.680 --> 00:02:45.120
+yeah man dude i'm telling you dude it's
+
+00:02:45.120 --> 00:02:46.720
+uh i mean it's funny because it sounds
+
+00:02:46.720 --> 00:02:47.360
+like we're going
+
+00:02:47.360 --> 00:02:49.680
+kind of round robin but it's like i was
+
+00:02:49.680 --> 00:02:52.000
+more or less kind of just kicking around
+
+00:02:52.000 --> 00:02:54.080
+uh space cowboy style and then like you
+
+00:02:54.080 --> 00:02:56.080
+know wes same thing when he gave me the
+
+00:02:56.080 --> 00:02:57.760
+like you know here's how i set goals
+
+00:02:57.760 --> 00:03:00.159
+here's how i imagine and like a year
+
+00:03:00.159 --> 00:03:02.159
+coming up in all these different domains
+
+00:03:02.159 --> 00:03:03.360
+i did that and like dude
+
+00:03:03.360 --> 00:03:06.400
+i say it all the time i'm like the the
+
+00:03:06.400 --> 00:03:07.760
+level of effect that had
+
+00:03:07.760 --> 00:03:10.560
+for just like something like a million
+
+00:03:10.560 --> 00:03:11.920
+crack brain schemes that just kind of
+
+00:03:11.920 --> 00:03:12.640
+fall apart
+
+00:03:12.640 --> 00:03:14.239
+no here's an actual thing that i've
+
+00:03:14.239 --> 00:03:15.599
+shaped and i'm going to try to make that
+
+00:03:15.599 --> 00:03:16.720
+happen it's like
+
+00:03:16.720 --> 00:03:18.239
+dude it's simplified so many things in
+
+00:03:18.239 --> 00:03:19.920
+my life it's unbelievable
+
+00:03:19.920 --> 00:03:22.959
+yeah yeah well uh a quick recap if
+
+00:03:22.959 --> 00:03:24.640
+i could imagine this not making sense to
+
+00:03:24.640 --> 00:03:26.000
+one or two people listening
+
+00:03:26.000 --> 00:03:28.560
+uh of the four or five people listening
+
+00:03:28.560 --> 00:03:30.799
+uh
+
+00:03:31.040 --> 00:03:33.280
+our magnum opus a four-hour episode
+
+00:03:33.280 --> 00:03:34.799
+called the program
+
+00:03:34.799 --> 00:03:37.280
+uh featured matt and uh wes it was
+
+00:03:37.280 --> 00:03:37.920
+originally
+
+00:03:37.920 --> 00:03:40.080
+only on our patreon which is uh
+
+00:03:40.080 --> 00:03:41.599
+accessible for as little as a dollar a
+
+00:03:41.599 --> 00:03:42.480
+month
+
+00:03:42.480 --> 00:03:44.319
+and then we later on made it free and
+
+00:03:44.319 --> 00:03:46.319
+it's four hours long and it might seem
+
+00:03:46.319 --> 00:03:48.319
+i mean just looking at the run time it
+
+00:03:48.319 --> 00:03:49.920
+might seem like a lot to get into but
+
+00:03:49.920 --> 00:03:52.640
+recording it flew by it was the
+
+00:03:52.640 --> 00:03:55.360
+breeziest conversation of my entire life
+
+00:03:55.360 --> 00:03:58.239
+um and i say that as a cripplingly
+
+00:03:58.239 --> 00:03:58.959
+autistic
+
+00:03:58.959 --> 00:04:03.200
+you know uh semi incel and uh
+
+00:04:03.200 --> 00:04:06.879
+the the whole the whole crux of it was
+
+00:04:06.879 --> 00:04:08.720
+you know the the whole point behind all
+
+00:04:08.720 --> 00:04:09.920
+of this is that
+
+00:04:09.920 --> 00:04:12.959
+you know the fact that i am a
+
+00:04:12.959 --> 00:04:14.720
+and i speak for all of us when i say i
+
+00:04:14.720 --> 00:04:17.440
+am a fat gay [ __ ] that is no excuse
+
+00:04:17.440 --> 00:04:19.280
+for just you know uh running in place
+
+00:04:19.280 --> 00:04:20.880
+and treading water in life
+
+00:04:20.880 --> 00:04:23.919
+and uh you know obviously
+
+00:04:23.919 --> 00:04:25.840
+we we [ __ ] around more often than not
+
+00:04:25.840 --> 00:04:27.759
+but uh
+
+00:04:27.759 --> 00:04:30.400
+that there is there is a point to
+
+00:04:30.400 --> 00:04:31.520
+everything i do now
+
+00:04:31.520 --> 00:04:33.360
+and uh i don't feel like i'm wasting
+
+00:04:33.360 --> 00:04:34.960
+time anymore so
+
+00:04:34.960 --> 00:04:37.840
+um yeah it was just it was just it feels
+
+00:04:37.840 --> 00:04:38.400
+great
+
+00:04:38.400 --> 00:04:42.000
+to be here uh on the cusp of a new
+
+00:04:42.000 --> 00:04:44.720
+year of doing this and uh to have you
+
+00:04:44.720 --> 00:04:45.360
+guys back
+
+00:04:45.360 --> 00:04:48.639
+um and and just to i i was very
+
+00:04:48.639 --> 00:04:49.840
+interested in talking to you guys and
+
+00:04:49.840 --> 00:04:50.720
+seeing how
+
+00:04:50.720 --> 00:04:53.199
+so we we set up this entire process of
+
+00:04:53.199 --> 00:04:55.199
+uh creating goals almost like
+
+00:04:55.199 --> 00:04:57.919
+purposely finding something unimaginable
+
+00:04:57.919 --> 00:04:58.479
+to us
+
+00:04:58.479 --> 00:05:01.120
+that we that we want for ourselves or or
+
+00:05:01.120 --> 00:05:01.919
+just like
+
+00:05:01.919 --> 00:05:04.639
+breaking out of the the monotony of um
+
+00:05:04.639 --> 00:05:05.280
+you know
+
+00:05:05.280 --> 00:05:08.479
+a typical career path or you know
+
+00:05:08.479 --> 00:05:12.160
+your raised schedule and just deciding
+
+00:05:12.160 --> 00:05:13.280
+what you want
+
+00:05:13.280 --> 00:05:15.199
+and i you know as [ __ ] gay as it all
+
+00:05:15.199 --> 00:05:16.880
+sounds i'm very sorry but
+
+00:05:16.880 --> 00:05:18.960
+the point is that we did it all and it
+
+00:05:18.960 --> 00:05:21.520
+had a huge impact on me and i've just
+
+00:05:21.520 --> 00:05:22.880
+i was i've been dying to talk to you
+
+00:05:22.880 --> 00:05:25.120
+guys about how uh
+
+00:05:25.120 --> 00:05:27.600
+2020 shaped up for the general public
+
+00:05:27.600 --> 00:05:29.039
+and and what that did
+
+00:05:29.039 --> 00:05:32.720
+to um the goals that you set and uh just
+
+00:05:32.720 --> 00:05:34.720
+your your general process for um
+
+00:05:34.720 --> 00:05:39.440
+making um progress for yourself
+
+00:05:39.440 --> 00:05:42.560
+oh yeah well i'm going to to
+
+00:05:42.560 --> 00:05:44.720
+uh consistently throughout this episode
+
+00:05:44.720 --> 00:05:46.720
+um bow down to matt so
+
+00:05:46.720 --> 00:05:49.120
+i think he should always go before me
+
+00:05:49.120 --> 00:05:50.639
+and then i'll follow up
+
+00:05:50.639 --> 00:05:52.560
+well no that's ridiculous because again
+
+00:05:52.560 --> 00:05:54.800
+i it was really your
+
+00:05:54.800 --> 00:05:57.360
+kind of framework that i adopted but the
+
+00:05:57.360 --> 00:05:58.720
+i mean i i will say i
+
+00:05:58.720 --> 00:06:00.639
+you know i i hate that because now i'm
+
+00:06:00.639 --> 00:06:02.000
+like i like all right i'll jump in but
+
+00:06:02.000 --> 00:06:03.759
+now i'm like yeah bow down so
+
+00:06:03.759 --> 00:06:07.280
+i'll be struggling with that
+
+00:06:07.280 --> 00:06:10.479
+yeah well this is the um so when i when
+
+00:06:10.479 --> 00:06:12.479
+i first did that you know kind of like
+
+00:06:12.479 --> 00:06:14.479
+envisioning you know what's the next
+
+00:06:14.479 --> 00:06:15.520
+year going to bring and all these
+
+00:06:15.520 --> 00:06:16.880
+different domains that you know you do
+
+00:06:16.880 --> 00:06:18.560
+care about but you don't consciously
+
+00:06:18.560 --> 00:06:21.120
+evaluate really ever you're like yeah
+
+00:06:21.120 --> 00:06:22.800
+family is cool sounds good and it's like
+
+00:06:22.800 --> 00:06:24.160
+what do you do for them
+
+00:06:24.160 --> 00:06:26.080
+oh wait till they call me for somebody's
+
+00:06:26.080 --> 00:06:27.520
+birthday and we like all stand there and
+
+00:06:27.520 --> 00:06:28.960
+like ask each other about work and then
+
+00:06:28.960 --> 00:06:29.360
+eat
+
+00:06:29.360 --> 00:06:30.960
+a lot of sugar and go home you know it's
+
+00:06:30.960 --> 00:06:32.720
+like so like trying to like bring more
+
+00:06:32.720 --> 00:06:34.960
+of like a conscious uh
+
+00:06:34.960 --> 00:06:36.720
+awareness to all these different domains
+
+00:06:36.720 --> 00:06:37.759
+anything like some of the domains you
+
+00:06:37.759 --> 00:06:38.240
+can go
+
+00:06:38.240 --> 00:06:39.520
+you know like man i don't really care
+
+00:06:39.520 --> 00:06:40.720
+about that one that much you know i'm
+
+00:06:40.720 --> 00:06:41.919
+not gonna be like forced to or like
+
+00:06:41.919 --> 00:06:42.960
+participate in it
+
+00:06:42.960 --> 00:06:45.680
+but that's the thing i've been doing for
+
+00:06:45.680 --> 00:06:47.039
+the thing i've been researching a lot
+
+00:06:47.039 --> 00:06:48.800
+right now is how to kind of
+
+00:06:48.800 --> 00:06:51.360
+not just shape goals that are like uh
+
+00:06:51.360 --> 00:06:53.120
+societally programmed goals like you
+
+00:06:53.120 --> 00:06:54.400
+know like when i was in college i was
+
+00:06:54.400 --> 00:06:55.520
+like i need to make a hundred thousand
+
+00:06:55.520 --> 00:06:56.960
+dollars a year just a number i heard i
+
+00:06:56.960 --> 00:06:59.039
+was like that'll solve all my problems
+
+00:06:59.039 --> 00:07:01.759
+and uh you know and i just i had jobs
+
+00:07:01.759 --> 00:07:03.120
+and i started making money and i was
+
+00:07:03.120 --> 00:07:03.840
+like
+
+00:07:03.840 --> 00:07:05.520
+i don't know why i don't really care you
+
+00:07:05.520 --> 00:07:07.120
+know this is cool i mean i wasn't making
+
+00:07:07.120 --> 00:07:08.560
+a hundred thousand dollars but
+
+00:07:08.560 --> 00:07:10.400
+i was just like what the hell like this
+
+00:07:10.400 --> 00:07:12.000
+i don't i don't care about this i i got
+
+00:07:12.000 --> 00:07:13.360
+tricked into caring about this you know
+
+00:07:13.360 --> 00:07:14.400
+i don't know how
+
+00:07:14.400 --> 00:07:16.319
+and so what i've been doing is trying to
+
+00:07:16.319 --> 00:07:18.479
+do like deep kind of values work and
+
+00:07:18.479 --> 00:07:19.680
+like look into the things that
+
+00:07:19.680 --> 00:07:22.240
+what do i actually 100 value and then
+
+00:07:22.240 --> 00:07:23.599
+how can you turn those into like
+
+00:07:23.599 --> 00:07:26.720
+actionable doable items and uh dude
+
+00:07:26.720 --> 00:07:27.919
+that's been like
+
+00:07:27.919 --> 00:07:29.280
+i've been loving doing that to the point
+
+00:07:29.280 --> 00:07:30.960
+where it's like you know
+
+00:07:30.960 --> 00:07:32.639
+you go through all the domains and then
+
+00:07:32.639 --> 00:07:33.919
+you come up with all the stuff that like
+
+00:07:33.919 --> 00:07:35.440
+you know here's the things i value but i
+
+00:07:35.440 --> 00:07:36.720
+you know i kind of wasn't
+
+00:07:36.720 --> 00:07:38.080
+i didn't really do much stuff in terms
+
+00:07:38.080 --> 00:07:39.520
+of like for my relationship and i should
+
+00:07:39.520 --> 00:07:40.800
+do this x y and z
+
+00:07:40.800 --> 00:07:42.160
+and you know you just come up with like
+
+00:07:42.160 --> 00:07:44.319
+a really cool self-created to-do list
+
+00:07:44.319 --> 00:07:46.240
+that you know just makes your days full
+
+00:07:46.240 --> 00:07:47.919
+of stuff that you enjoy doing that are
+
+00:07:47.919 --> 00:07:49.759
+deeply meaningful to you personally
+
+00:07:49.759 --> 00:07:51.599
+rather than just being like another day
+
+00:07:51.599 --> 00:07:53.440
+another dollar [ __ ] everyone's
+
+00:07:53.440 --> 00:07:55.520
+[ __ ] blah blah blah blah
+
+00:07:55.520 --> 00:07:57.599
+matt i love that uh the typical like
+
+00:07:57.599 --> 00:07:59.360
+internet impression of you
+
+00:07:59.360 --> 00:08:02.639
+is to just say a bunch of uh
+
+00:08:02.639 --> 00:08:04.960
+almost made-up words pertaining to like
+
+00:08:04.960 --> 00:08:06.240
+a pseudo-science
+
+00:08:06.240 --> 00:08:08.400
+but when you really let matt mccusker
+
+00:08:08.400 --> 00:08:09.680
+rip it's
+
+00:08:09.680 --> 00:08:13.039
+as coherent and like focused as anybody
+
+00:08:13.039 --> 00:08:14.720
+you would ever talk to
+
+00:08:14.720 --> 00:08:16.240
+well that was a struggle man that was
+
+00:08:16.240 --> 00:08:17.840
+like you know
+
+00:08:17.840 --> 00:08:19.039
+and it's funny too just i always tell
+
+00:08:19.039 --> 00:08:20.240
+people when they're like i want to do a
+
+00:08:20.240 --> 00:08:21.440
+podcast but like you know
+
+00:08:21.440 --> 00:08:22.800
+how do i get my numbers it's like just
+
+00:08:22.800 --> 00:08:24.800
+make sure you're coherent i rocked like
+
+00:08:24.800 --> 00:08:25.440
+six months
+
+00:08:25.440 --> 00:08:27.520
+not being coherent at all so it's like
+
+00:08:27.520 --> 00:08:28.540
+some of you know just
+
+00:08:28.540 --> 00:08:31.120
+[Laughter]
+
+00:08:31.120 --> 00:08:32.640
+it's like just try to be coherent you
+
+00:08:32.640 --> 00:08:34.080
+know and like doing it listening back
+
+00:08:34.080 --> 00:08:35.760
+yourself reading writing all that stuff
+
+00:08:35.760 --> 00:08:36.320
+but yeah
+
+00:08:36.320 --> 00:08:38.080
+no it is funny you know it's a comedy
+
+00:08:38.080 --> 00:08:39.440
+podcast too if you like that you like to
+
+00:08:39.440 --> 00:08:40.399
+get the people laughing
+
+00:08:40.399 --> 00:08:41.839
+but yeah that's the i guess people said
+
+00:08:41.839 --> 00:08:42.880
+to me like i know you're some guy who
+
+00:08:42.880 --> 00:08:44.159
+just smokes weed in your basement all
+
+00:08:44.159 --> 00:08:44.640
+day
+
+00:08:44.640 --> 00:08:45.839
+but this you know they'll hit me with
+
+00:08:45.839 --> 00:08:48.240
+stuff like all right bro oh matt you
+
+00:08:48.240 --> 00:08:49.440
+couldn't be further
+
+00:08:49.440 --> 00:08:52.839
+uh from the truth on this one all right
+
+00:08:52.839 --> 00:08:54.160
+well
+
+00:08:54.160 --> 00:08:56.320
+but yeah dude i'm telling you man it
+
+00:08:56.320 --> 00:08:58.080
+doesn't have to do with uh i think
+
+00:08:58.080 --> 00:08:59.440
+there's a there's a thing with goal
+
+00:08:59.440 --> 00:09:00.080
+setting where
+
+00:09:00.080 --> 00:09:03.120
+it's kind of contrived as like
+
+00:09:03.120 --> 00:09:05.680
+shallow and robotically business-ish and
+
+00:09:05.680 --> 00:09:07.440
+i i was i kind of thought that way when
+
+00:09:07.440 --> 00:09:08.560
+i was younger
+
+00:09:08.560 --> 00:09:10.160
+but it's like it's like no man you're
+
+00:09:10.160 --> 00:09:12.720
+giving yourself a self-directed
+
+00:09:12.720 --> 00:09:14.640
+purpose and meaning in life you know and
+
+00:09:14.640 --> 00:09:16.560
+it's i think it's something if you do
+
+00:09:16.560 --> 00:09:18.320
+that it just cure a lot of that other
+
+00:09:18.320 --> 00:09:20.080
+stuff your weird angst and existential
+
+00:09:20.080 --> 00:09:21.360
+problems is kind of start to fall by the
+
+00:09:21.360 --> 00:09:22.080
+wayside
+
+00:09:22.080 --> 00:09:23.279
+well one of one of the things that i
+
+00:09:23.279 --> 00:09:25.680
+found beneficial with goal setting and
+
+00:09:25.680 --> 00:09:27.440
+it can feel limiting at first but i
+
+00:09:27.440 --> 00:09:29.920
+think through setting your own structure
+
+00:09:29.920 --> 00:09:31.440
+you create your own freedom
+
+00:09:31.440 --> 00:09:33.680
+like for instance um wes you had
+
+00:09:33.680 --> 00:09:35.040
+mentioned something today that instantly
+
+00:09:35.040 --> 00:09:36.240
+made me think of something i experienced
+
+00:09:36.240 --> 00:09:37.200
+this past week i
+
+00:09:37.200 --> 00:09:39.519
+heard you say something on the um on the
+
+00:09:39.519 --> 00:09:41.360
+crowd cast with matt on roma's um your
+
+00:09:41.360 --> 00:09:42.560
+most recent one where you mentioned
+
+00:09:42.560 --> 00:09:44.480
+taking micro steps toward action toward
+
+00:09:44.480 --> 00:09:46.080
+uh goals
+
+00:09:46.080 --> 00:09:47.680
+and the first thing i thought it was
+
+00:09:47.680 --> 00:09:49.120
+like feeling overwhelmed for this one
+
+00:09:49.120 --> 00:09:50.560
+thing that i had to do for school last
+
+00:09:50.560 --> 00:09:51.360
+week
+
+00:09:51.360 --> 00:09:53.279
+and then finally i sat down like last
+
+00:09:53.279 --> 00:09:54.480
+wednesday and said like all right i'm
+
+00:09:54.480 --> 00:09:56.240
+setting a timer for two hours
+
+00:09:56.240 --> 00:09:57.839
+and whatever just gets done at that time
+
+00:09:57.839 --> 00:09:59.680
+that's what i'm going to get done well
+
+00:09:59.680 --> 00:10:01.120
+i got the whole [ __ ] thing done in an
+
+00:10:01.120 --> 00:10:02.880
+hour and 40 minutes and then it's like
+
+00:10:02.880 --> 00:10:04.399
+all right well i got 20 minutes left to
+
+00:10:04.399 --> 00:10:05.760
+do absolutely anything that i want
+
+00:10:05.760 --> 00:10:06.480
+without feeling
+
+00:10:06.480 --> 00:10:08.320
+any guilt like i could sit here and
+
+00:10:08.320 --> 00:10:10.560
+watch youtube compilations of fat girls
+
+00:10:10.560 --> 00:10:12.079
+arm wrestling and not feel
+
+00:10:12.079 --> 00:10:14.800
+any [ __ ] reservations about doing so
+
+00:10:14.800 --> 00:10:15.680
+because i got down
+
+00:10:15.680 --> 00:10:17.040
+exactly what i needed to [ __ ] get
+
+00:10:17.040 --> 00:10:18.959
+done today yep
+
+00:10:18.959 --> 00:10:21.200
+a hundred percent man and to piggyback
+
+00:10:21.200 --> 00:10:23.680
+off of me what matt was saying
+
+00:10:23.680 --> 00:10:26.399
+um when you take ownership of all this
+
+00:10:26.399 --> 00:10:28.240
+stuff it's all it is it's it's
+
+00:10:28.240 --> 00:10:30.240
+taking ownership of of different areas
+
+00:10:30.240 --> 00:10:32.240
+of life and it's that whole quote of
+
+00:10:32.240 --> 00:10:35.279
+you know what do they say like nobody
+
+00:10:35.279 --> 00:10:37.200
+ever washed a rental car
+
+00:10:37.200 --> 00:10:39.600
+you know so you don't treat things that
+
+00:10:39.600 --> 00:10:41.040
+you rent with the same
+
+00:10:41.040 --> 00:10:44.240
+discipline and care and attentiveness
+
+00:10:44.240 --> 00:10:45.680
+and intention that you do with the
+
+00:10:45.680 --> 00:10:47.600
+things that you own and that same
+
+00:10:47.600 --> 00:10:49.680
+analogy from the rental car applies to
+
+00:10:49.680 --> 00:10:50.399
+life
+
+00:10:50.399 --> 00:10:52.480
+so start owning your family relationship
+
+00:10:52.480 --> 00:10:53.440
+start owning
+
+00:10:53.440 --> 00:10:54.720
+your relationship with money start
+
+00:10:54.720 --> 00:10:56.000
+owning your relationship with your wife
+
+00:10:56.000 --> 00:10:57.440
+start owning your relationship
+
+00:10:57.440 --> 00:10:59.600
+with whatever else your calendar right
+
+00:10:59.600 --> 00:11:01.120
+just take [ __ ] ownership of it and
+
+00:11:01.120 --> 00:11:02.000
+then from there
+
+00:11:02.000 --> 00:11:03.680
+you take micro steps little micro
+
+00:11:03.680 --> 00:11:05.760
+commitments and i think that's a that's
+
+00:11:05.760 --> 00:11:07.279
+a big thing that happens with goal
+
+00:11:07.279 --> 00:11:09.279
+setting is you set the vision it's like
+
+00:11:09.279 --> 00:11:10.480
+yeah that vision is going to take a long
+
+00:11:10.480 --> 00:11:11.440
+time to get
+
+00:11:11.440 --> 00:11:14.720
+right but but the the i think false
+
+00:11:14.720 --> 00:11:15.279
+belief
+
+00:11:15.279 --> 00:11:16.720
+is that you have to get it in a certain
+
+00:11:16.720 --> 00:11:18.240
+period of time did i set deadlines all
+
+00:11:18.240 --> 00:11:19.440
+the time and i missed them
+
+00:11:19.440 --> 00:11:21.360
+dude i don't think i've been on time one
+
+00:11:21.360 --> 00:11:24.240
+time for matt and i's podcast
+
+00:11:24.240 --> 00:11:27.120
+twice twice yes twice and i feel so
+
+00:11:27.120 --> 00:11:28.800
+terrible for that and matt's like a
+
+00:11:28.800 --> 00:11:30.079
+phenomenal partner because he doesn't
+
+00:11:30.079 --> 00:11:30.959
+want to crucify me
+
+00:11:30.959 --> 00:11:33.600
+each time i do it um and it took it took
+
+00:11:33.600 --> 00:11:34.000
+me
+
+00:11:34.000 --> 00:11:36.720
+six months to even get up real most with
+
+00:11:36.720 --> 00:11:38.160
+matt and thank god he helped me with it
+
+00:11:38.160 --> 00:11:40.240
+because it would have taken another year
+
+00:11:40.240 --> 00:11:42.480
+so um but i think the prerequisite of
+
+00:11:42.480 --> 00:11:44.399
+ambition and then ownership of over all
+
+00:11:44.399 --> 00:11:45.360
+those things and then
+
+00:11:45.360 --> 00:11:47.120
+knowing that the path is going to be
+
+00:11:47.120 --> 00:11:48.560
+extremely messy
+
+00:11:48.560 --> 00:11:52.160
+extremely messy yeah man yeah the path
+
+00:11:52.160 --> 00:11:53.440
+itself and the mess
+
+00:11:53.440 --> 00:11:56.320
+upon it is almost like a detriment that
+
+00:11:56.320 --> 00:11:57.920
+you can't foresee you can't
+
+00:11:57.920 --> 00:11:59.279
+like when you identify something that
+
+00:11:59.279 --> 00:12:01.680
+you want or a goal that you want
+
+00:12:01.680 --> 00:12:04.639
+um but first of all like seeing the goal
+
+00:12:04.639 --> 00:12:05.839
+for the first time is almost like
+
+00:12:05.839 --> 00:12:07.200
+looking at it's like too bright you
+
+00:12:07.200 --> 00:12:09.040
+can't you can't look directly at it
+
+00:12:09.040 --> 00:12:10.480
+and you're terrified of it and then you
+
+00:12:10.480 --> 00:12:12.000
+accept that like all right well i could
+
+00:12:12.000 --> 00:12:12.959
+i could
+
+00:12:12.959 --> 00:12:15.040
+feel like a [ __ ] loser for the rest
+
+00:12:15.040 --> 00:12:16.480
+of my life or i could just start taking
+
+00:12:16.480 --> 00:12:17.040
+actions
+
+00:12:17.040 --> 00:12:19.279
+and then when you start doing it you
+
+00:12:19.279 --> 00:12:20.720
+immediately you come up with a list of
+
+00:12:20.720 --> 00:12:21.440
+reasons why
+
+00:12:21.440 --> 00:12:23.040
+number one either you shouldn't or it's
+
+00:12:23.040 --> 00:12:24.959
+going to be hard or you can't
+
+00:12:24.959 --> 00:12:27.040
+and then once you get past all that
+
+00:12:27.040 --> 00:12:28.880
+there are new problems that you couldn't
+
+00:12:28.880 --> 00:12:30.160
+have
+
+00:12:30.160 --> 00:12:33.120
+imagined when you started and some of
+
+00:12:33.120 --> 00:12:34.560
+them were good problems and some of them
+
+00:12:34.560 --> 00:12:38.160
+are time wasters um but
+
+00:12:38.160 --> 00:12:40.160
+i think getting to them as quickly as
+
+00:12:40.160 --> 00:12:42.480
+possible so that you can
+
+00:12:42.480 --> 00:12:44.079
+maximize the time that you can spend to
+
+00:12:44.079 --> 00:12:46.160
+figure them out is uh
+
+00:12:46.160 --> 00:12:47.440
+it's one of the valuable skills i've
+
+00:12:47.440 --> 00:12:49.760
+learned uh this year
+
+00:12:49.760 --> 00:12:51.200
+um and the only thing that stopped me
+
+00:12:51.200 --> 00:12:52.480
+was you know just that that blind
+
+00:12:52.480 --> 00:12:54.000
+hesitation
+
+00:12:54.000 --> 00:12:56.800
+yeah dude the the thing that uh so i've
+
+00:12:56.800 --> 00:12:58.320
+been reading viktor frankl
+
+00:12:58.320 --> 00:13:01.360
+uh the guy who didn't search man for
+
+00:13:01.360 --> 00:13:01.920
+that now
+
+00:13:01.920 --> 00:13:03.279
+yeah he was the guy who was in a
+
+00:13:03.279 --> 00:13:05.440
+concentration camp and he like he was a
+
+00:13:05.440 --> 00:13:06.160
+psychiatrist
+
+00:13:06.160 --> 00:13:08.160
+and he got rounded up thrown into camp
+
+00:13:08.160 --> 00:13:10.399
+um and then he was like trying to write
+
+00:13:10.399 --> 00:13:11.839
+a manuscript while he was in a
+
+00:13:11.839 --> 00:13:13.120
+concentration camp and they took his
+
+00:13:13.120 --> 00:13:14.720
+manuscript and like threw it away
+
+00:13:14.720 --> 00:13:16.240
+so he ended up getting out and actually
+
+00:13:16.240 --> 00:13:17.760
+writing his manuscript and publishing
+
+00:13:17.760 --> 00:13:18.959
+man's search for meaning and then he
+
+00:13:18.959 --> 00:13:20.959
+also started a whole like
+
+00:13:20.959 --> 00:13:22.800
+a a different approach to therapy which
+
+00:13:22.800 --> 00:13:24.639
+is called logotherapy which
+
+00:13:24.639 --> 00:13:27.120
+focuses on meaning as like a problem so
+
+00:13:27.120 --> 00:13:27.839
+there's like
+
+00:13:27.839 --> 00:13:29.600
+classic psychoanalysis as like the sex
+
+00:13:29.600 --> 00:13:32.160
+drive and then i think adler had like
+
+00:13:32.160 --> 00:13:34.480
+um not the sex drive more of like your
+
+00:13:34.480 --> 00:13:36.399
+social position drive like inferiority
+
+00:13:36.399 --> 00:13:37.839
+complex and all that stuff and frankel
+
+00:13:37.839 --> 00:13:39.120
+was like no there's also
+
+00:13:39.120 --> 00:13:41.040
+and young do this too but frankel was
+
+00:13:41.040 --> 00:13:42.480
+like there is this
+
+00:13:42.480 --> 00:13:44.639
+drive for inherent meaning and purpose
+
+00:13:44.639 --> 00:13:46.240
+like you know you can get a guy who
+
+00:13:46.240 --> 00:13:48.320
+grows up in poverty and goes i just want
+
+00:13:48.320 --> 00:13:49.519
+to be rich and then they get rich and
+
+00:13:49.519 --> 00:13:50.160
+they go like
+
+00:13:50.160 --> 00:13:51.600
+there's still something missing and you
+
+00:13:51.600 --> 00:13:52.720
+know it's supposed to make that
+
+00:13:52.720 --> 00:13:53.920
+intangible like
+
+00:13:53.920 --> 00:13:55.839
+is there a satisfying why behind what
+
+00:13:55.839 --> 00:13:57.120
+you're doing you know that's like your
+
+00:13:57.120 --> 00:13:57.600
+meaning
+
+00:13:57.600 --> 00:13:59.440
+yeah um you know he said and it differs
+
+00:13:59.440 --> 00:14:00.800
+for everybody there's no one strike
+
+00:14:00.800 --> 00:14:02.480
+thing you know that's right or wrong
+
+00:14:02.480 --> 00:14:03.600
+but the thing that i've been thinking
+
+00:14:03.600 --> 00:14:05.199
+about a lot is like what are and i think
+
+00:14:05.199 --> 00:14:06.480
+this has to do with
+
+00:14:06.480 --> 00:14:08.240
+why some people are maybe more resilient
+
+00:14:08.240 --> 00:14:09.600
+than others is like
+
+00:14:09.600 --> 00:14:12.079
+what is your relationship to stuff that
+
+00:14:12.079 --> 00:14:13.440
+doesn't exist
+
+00:14:13.440 --> 00:14:15.600
+like can you dream stuff up and then
+
+00:14:15.600 --> 00:14:17.440
+like you know can you see a thing in
+
+00:14:17.440 --> 00:14:18.079
+your head
+
+00:14:18.079 --> 00:14:19.839
+that doesn't exist and have that sustain
+
+00:14:19.839 --> 00:14:21.120
+you through like you were talking about
+
+00:14:21.120 --> 00:14:22.399
+the messy period when you're like but
+
+00:14:22.399 --> 00:14:23.760
+everything sucks and nothing's working
+
+00:14:23.760 --> 00:14:24.160
+out
+
+00:14:24.160 --> 00:14:25.600
+but like you know and i think that's a
+
+00:14:25.600 --> 00:14:27.440
+huge factor for people who can like
+
+00:14:27.440 --> 00:14:29.199
+hold an actual vision in their head and
+
+00:14:29.199 --> 00:14:31.040
+have it feel so real that it'll sustain
+
+00:14:31.040 --> 00:14:32.399
+them through that period of like getting
+
+00:14:32.399 --> 00:14:34.639
+to something even like resembling that
+
+00:14:34.639 --> 00:14:35.920
+matt matt two things i wanted to mention
+
+00:14:35.920 --> 00:14:37.920
+real quick um i apologize i'm actually
+
+00:14:37.920 --> 00:14:41.040
+uh listening to wigar frankel's book
+
+00:14:41.040 --> 00:14:43.600
+and uh that wiger franco's book is my
+
+00:14:43.600 --> 00:14:44.470
+man's search for me
+
+00:14:44.470 --> 00:14:48.959
+[Laughter]
+
+00:14:48.959 --> 00:14:52.160
+chapter one my one boy
+
+00:14:56.079 --> 00:14:58.100
+just for the heavy heart
+
+00:14:58.100 --> 00:15:04.880
+[Laughter]
+
+00:15:04.880 --> 00:15:06.399
+i never knew how much i enjoyed not
+
+00:15:06.399 --> 00:15:10.000
+being in a concentration camp but
+
+00:15:10.880 --> 00:15:14.079
+i'm sorry mike um
+
+00:15:14.079 --> 00:15:17.600
+oh dude uh what one of uh one of my
+
+00:15:17.600 --> 00:15:19.760
+biggest goals for the year was to
+
+00:15:19.760 --> 00:15:21.040
+provide value
+
+00:15:21.040 --> 00:15:24.320
+in in in my actions and i feel like one
+
+00:15:24.320 --> 00:15:25.440
+i've been able to do that through so
+
+00:15:25.440 --> 00:15:26.480
+many things that i'm doing
+
+00:15:26.480 --> 00:15:28.639
+but in doing so like i'm able to find
+
+00:15:28.639 --> 00:15:29.920
+value
+
+00:15:29.920 --> 00:15:33.600
+um doing that has basically surrounded
+
+00:15:33.600 --> 00:15:34.000
+me
+
+00:15:34.000 --> 00:15:37.040
+with activities with people and
+
+00:15:37.040 --> 00:15:39.680
+things that provide value for me in
+
+00:15:39.680 --> 00:15:40.079
+exchange
+
+00:15:40.079 --> 00:15:42.320
+for that and it was something like i
+
+00:15:42.320 --> 00:15:43.440
+wasn't looking for that [ __ ] and it's
+
+00:15:43.440 --> 00:15:43.920
+just like
+
+00:15:43.920 --> 00:15:45.920
+a byproduct of what inevitably ended up
+
+00:15:45.920 --> 00:15:48.079
+happening and it was it was a [ __ ]
+
+00:15:48.079 --> 00:15:49.360
+cool thing and it goes to what tim was
+
+00:15:49.360 --> 00:15:49.920
+saying like
+
+00:15:49.920 --> 00:15:51.360
+you get problems associated with the
+
+00:15:51.360 --> 00:15:52.959
+[ __ ] that you set but also
+
+00:15:52.959 --> 00:15:55.040
+there's going to be unexpected um
+
+00:15:55.040 --> 00:15:56.240
+bonuses to
+
+00:15:56.240 --> 00:15:57.839
+to the [ __ ] that you set out after as
+
+00:15:57.839 --> 00:15:59.920
+well not me i expected every bonus that
+
+00:15:59.920 --> 00:16:01.360
+came my way everything that came away i
+
+00:16:01.360 --> 00:16:03.920
+was like it's about time
+
+00:16:03.920 --> 00:16:06.959
+what the [ __ ] took so long yeah how were
+
+00:16:06.959 --> 00:16:08.800
+your guys's years can you guys recap
+
+00:16:08.800 --> 00:16:10.240
+like a difference between because we all
+
+00:16:10.240 --> 00:16:11.600
+kind of did it you know i guess the
+
+00:16:11.600 --> 00:16:13.040
+three of us wes has been on this page
+
+00:16:13.040 --> 00:16:14.079
+for a while
+
+00:16:14.079 --> 00:16:17.279
+um but the three of us kind of
+
+00:16:17.279 --> 00:16:19.440
+organized stuff in a way this year like
+
+00:16:19.440 --> 00:16:21.120
+you know and i i know i did it
+
+00:16:21.120 --> 00:16:23.199
+i just started doing it pretty much the
+
+00:16:23.199 --> 00:16:24.720
+biggest thing i had was like
+
+00:16:24.720 --> 00:16:26.399
+just doing stuff that i had kicking
+
+00:16:26.399 --> 00:16:27.600
+around in the back of my head and i was
+
+00:16:27.600 --> 00:16:28.000
+like
+
+00:16:28.000 --> 00:16:29.120
+i don't want to do that that might be
+
+00:16:29.120 --> 00:16:30.880
+weird i just did pretty much almost
+
+00:16:30.880 --> 00:16:32.480
+everything that i had wanted to do and
+
+00:16:32.480 --> 00:16:34.399
+then got to judge like the experience of
+
+00:16:34.399 --> 00:16:36.000
+that rather than just like
+
+00:16:36.000 --> 00:16:38.079
+my own preconception of like no that'll
+
+00:16:38.079 --> 00:16:39.759
+suck blah blah blah
+
+00:16:39.759 --> 00:16:42.880
+well i this was the first year okay so i
+
+00:16:42.880 --> 00:16:44.720
+i there's a couple of levels to the way
+
+00:16:44.720 --> 00:16:46.639
+i i thought about this
+
+00:16:46.639 --> 00:16:49.040
+um number one this was the first year
+
+00:16:49.040 --> 00:16:50.880
+that i feel like i wasn't just
+
+00:16:50.880 --> 00:16:54.079
+going into you know like 26th grade
+
+00:16:54.079 --> 00:16:57.199
+like i i feel like uh i was kind of on a
+
+00:16:57.199 --> 00:16:58.959
+track where all i could think about was
+
+00:16:58.959 --> 00:17:00.800
+like okay if i do a good enough job
+
+00:17:00.800 --> 00:17:03.440
+at whatever company i work for this year
+
+00:17:03.440 --> 00:17:05.039
+at the end of the year i get my report
+
+00:17:05.039 --> 00:17:06.400
+card and if it's a good enough report
+
+00:17:06.400 --> 00:17:07.839
+card they'll give me a raise and if i
+
+00:17:07.839 --> 00:17:09.360
+just get a couple of good report cards
+
+00:17:09.360 --> 00:17:10.079
+in a row
+
+00:17:10.079 --> 00:17:12.400
+my family's gonna be set and then i
+
+00:17:12.400 --> 00:17:13.439
+found that just like
+
+00:17:13.439 --> 00:17:15.919
+every year through just just trying to
+
+00:17:15.919 --> 00:17:18.240
+like play it as straight as possible
+
+00:17:18.240 --> 00:17:19.600
+it was the dumbest thing i could have
+
+00:17:19.600 --> 00:17:21.520
+done like
+
+00:17:21.520 --> 00:17:24.959
+uh obviously like wages have been
+
+00:17:24.959 --> 00:17:27.039
+stagnant and falling compared to
+
+00:17:27.039 --> 00:17:28.559
+productivity like
+
+00:17:28.559 --> 00:17:31.600
+nationwide that's not a tim problem um
+
+00:17:31.600 --> 00:17:33.840
+and it was just like i was i was on like
+
+00:17:33.840 --> 00:17:35.039
+uh
+
+00:17:35.039 --> 00:17:38.000
+the most like secure track to just like
+
+00:17:38.000 --> 00:17:39.600
+mediocre failure
+
+00:17:39.600 --> 00:17:41.200
+and this was the first year even
+
+00:17:41.200 --> 00:17:42.320
+including the years where it looked like
+
+00:17:42.320 --> 00:17:43.520
+we were gonna have like a tv show and
+
+00:17:43.520 --> 00:17:44.559
+[ __ ] like that which i don't even need
+
+00:17:44.559 --> 00:17:45.520
+to talk about anymore
+
+00:17:45.520 --> 00:17:47.919
+it's gone this was the first year where
+
+00:17:47.919 --> 00:17:50.160
+i actually thought
+
+00:17:50.160 --> 00:17:52.640
+like i was actually operating in any
+
+00:17:52.640 --> 00:17:54.559
+kind of capacity
+
+00:17:54.559 --> 00:17:57.840
+toward escaping that and uh
+
+00:17:57.840 --> 00:18:00.480
+i can't i can't believe how how much you
+
+00:18:00.480 --> 00:18:01.120
+constantly
+
+00:18:01.120 --> 00:18:03.200
+feel like you could look down and and
+
+00:18:03.200 --> 00:18:05.520
+just get like vertigo like it's that
+
+00:18:05.520 --> 00:18:07.120
+kind of feeling where you're like oh man
+
+00:18:07.120 --> 00:18:07.840
+this could all
+
+00:18:07.840 --> 00:18:09.760
+this could all go away if i stop trying
+
+00:18:09.760 --> 00:18:11.200
+to make it better like
+
+00:18:11.200 --> 00:18:13.120
+i feel like if i ever stagnate in
+
+00:18:13.120 --> 00:18:14.559
+anything creatively
+
+00:18:14.559 --> 00:18:17.440
+it's that's a failure so constantly
+
+00:18:17.440 --> 00:18:18.480
+striving to
+
+00:18:18.480 --> 00:18:20.400
+this is i don't know maybe maybe you
+
+00:18:20.400 --> 00:18:21.760
+guys have felt this before but
+
+00:18:21.760 --> 00:18:22.960
+this is the first year i ever felt like
+
+00:18:22.960 --> 00:18:24.559
+i operated outside of like a nine to
+
+00:18:24.559 --> 00:18:25.039
+five
+
+00:18:25.039 --> 00:18:28.320
+uh mindset so with that in mind
+
+00:18:28.320 --> 00:18:31.600
+i was really resentful of how the spring
+
+00:18:31.600 --> 00:18:34.000
+kind of shook out because i i was like
+
+00:18:34.000 --> 00:18:35.039
+dude i had like a
+
+00:18:35.039 --> 00:18:36.640
+printed out goals for the air i was like
+
+00:18:36.640 --> 00:18:38.559
+dude i'm going to do things
+
+00:18:38.559 --> 00:18:40.080
+and it's going to be yeah i'm going to
+
+00:18:40.080 --> 00:18:41.919
+be able to quantify them and they're
+
+00:18:41.919 --> 00:18:43.520
+meaningful to be i've already
+
+00:18:43.520 --> 00:18:45.280
+established meaning i've shared it with
+
+00:18:45.280 --> 00:18:47.280
+people everything about it felt new
+
+00:18:47.280 --> 00:18:49.440
+you know the vulnerability to it the the
+
+00:18:49.440 --> 00:18:50.960
+honesty with myself
+
+00:18:50.960 --> 00:18:53.200
+you know being on mushrooms a lot it was
+
+00:18:53.200 --> 00:18:55.360
+all very much for me to take in and
+
+00:18:55.360 --> 00:18:56.480
+maintain
+
+00:18:56.480 --> 00:18:58.160
+and then when uh when everything shut
+
+00:18:58.160 --> 00:18:59.600
+down i
+
+00:18:59.600 --> 00:19:01.919
+i kind of got stubborn about it at first
+
+00:19:01.919 --> 00:19:02.880
+where i was like well
+
+00:19:02.880 --> 00:19:04.400
+my goals are still my goals dude i'm not
+
+00:19:04.400 --> 00:19:06.160
+gonna be a [ __ ] [ __ ] i'm not gonna
+
+00:19:06.160 --> 00:19:08.400
+hide in my house and that actually
+
+00:19:08.400 --> 00:19:09.200
+slowed me down
+
+00:19:09.200 --> 00:19:11.120
+i had to adapt i had to change some
+
+00:19:11.120 --> 00:19:12.240
+things around
+
+00:19:12.240 --> 00:19:15.840
+and um you know
+
+00:19:15.840 --> 00:19:18.640
+i i'm not gonna i'm not gonna boast or
+
+00:19:18.640 --> 00:19:20.559
+uh go over it again i've talked about it
+
+00:19:20.559 --> 00:19:22.240
+constantly all year but
+
+00:19:22.240 --> 00:19:26.320
+the things have just you know uh
+
+00:19:26.320 --> 00:19:28.320
+that adaptability that i learned on the
+
+00:19:28.320 --> 00:19:30.400
+fly while also learning
+
+00:19:30.400 --> 00:19:34.080
+just like the base level of uh uh
+
+00:19:34.080 --> 00:19:36.880
+i don't know um finding direction for
+
+00:19:36.880 --> 00:19:37.760
+myself
+
+00:19:37.760 --> 00:19:40.160
+boy oh boy this is this year will stick
+
+00:19:40.160 --> 00:19:41.360
+with me for the rest of my life it's
+
+00:19:41.360 --> 00:19:41.679
+gonna
+
+00:19:41.679 --> 00:19:44.960
+it's gonna inform every decision i make
+
+00:19:44.960 --> 00:19:46.080
+from here on out
+
+00:19:46.080 --> 00:19:48.000
+and uh i just can't be happier with how
+
+00:19:48.000 --> 00:19:49.760
+it went man i got out of [ __ ] the
+
+00:19:49.760 --> 00:19:51.200
+hood
+
+00:19:51.200 --> 00:19:54.799
+we we grew uh dadmeet into something
+
+00:19:54.799 --> 00:19:56.720
+even more meaningful
+
+00:19:56.720 --> 00:19:59.360
+um a guy a guy mailed us knives that he
+
+00:19:59.360 --> 00:20:00.400
+made for us
+
+00:20:00.400 --> 00:20:03.600
+i mean how could and i i don't
+
+00:20:03.600 --> 00:20:07.120
+i don't mean to [ __ ] on the money my
+
+00:20:12.080 --> 00:20:13.840
+and tim shared that they got a knife
+
+00:20:13.840 --> 00:20:15.679
+mike can you please can you please
+
+00:20:15.679 --> 00:20:17.120
+repeat what you said
+
+00:20:17.120 --> 00:20:18.720
+when tim said hey man we got it we got a
+
+00:20:18.720 --> 00:20:20.240
+new knife in
+
+00:20:20.240 --> 00:20:22.720
+i forget what did i say oh man you said
+
+00:20:22.720 --> 00:20:26.240
+i know exactly who that's going in
+
+00:20:28.240 --> 00:20:31.360
+bro everyone knows how much i love
+
+00:20:31.360 --> 00:20:32.799
+looking at [ __ ]
+
+00:20:32.799 --> 00:20:35.440
+metal forging on youtube and a [ __ ] a
+
+00:20:35.440 --> 00:20:36.960
+bub hit us up and he was like yo i'm
+
+00:20:36.960 --> 00:20:37.919
+making you and mike
+
+00:20:37.919 --> 00:20:40.400
+matching knives that's [ __ ] sick you
+
+00:20:40.400 --> 00:20:41.760
+don't want to thank him for sending them
+
+00:20:41.760 --> 00:20:43.440
+in he sent them stuck into a cat like
+
+00:20:43.440 --> 00:20:46.559
+when you go to outback steakhouse
+
+00:20:47.039 --> 00:20:49.440
+i had to say to my wife like uh babe i'm
+
+00:20:49.440 --> 00:20:51.440
+uh giving a stranger our home address so
+
+00:20:51.440 --> 00:20:52.240
+he can mail us
+
+00:20:52.240 --> 00:20:55.290
+knives and she was like oh right
+
+00:20:55.290 --> 00:20:57.919
+[Laughter]
+
+00:20:57.919 --> 00:21:00.080
+how was it when you uh so when did you
+
+00:21:00.080 --> 00:21:01.520
+move that was sudden right
+
+00:21:01.520 --> 00:21:04.000
+yeah it was well so i've we've been over
+
+00:21:04.000 --> 00:21:05.520
+this a million times but like the
+
+00:21:05.520 --> 00:21:08.559
+the i i lived in uh kensington in philly
+
+00:21:08.559 --> 00:21:10.960
+uh harrowing capital the east coast uh
+
+00:21:10.960 --> 00:21:12.799
+also possibly the reggaeton the public
+
+00:21:12.799 --> 00:21:14.240
+reggaeton capital east coast
+
+00:21:14.240 --> 00:21:17.039
+but it was getting very spicy and the
+
+00:21:17.039 --> 00:21:18.799
+pandemic only accelerated it
+
+00:21:18.799 --> 00:21:20.559
+and um man some things really came
+
+00:21:20.559 --> 00:21:22.240
+together and last minute uh
+
+00:21:22.240 --> 00:21:24.559
+mike and uh sid the kid helped me pack
+
+00:21:24.559 --> 00:21:26.799
+up my entire life and and move to a
+
+00:21:26.799 --> 00:21:28.320
+quiet neighborhood while we look for a
+
+00:21:28.320 --> 00:21:31.760
+permanent home what was that
+
+00:21:31.760 --> 00:21:33.440
+remember when i had my dogs come into
+
+00:21:33.440 --> 00:21:34.799
+our new house i remember just watching
+
+00:21:34.799 --> 00:21:36.320
+them run up and down i didn't have any
+
+00:21:36.320 --> 00:21:37.679
+like a kid or anything at the time but i
+
+00:21:37.679 --> 00:21:39.039
+remember watching them run up and down
+
+00:21:39.039 --> 00:21:40.640
+the steps so we just had an apartment
+
+00:21:40.640 --> 00:21:42.000
+remember just like seeing them go up and
+
+00:21:42.000 --> 00:21:43.679
+down the steps so excited being so proud
+
+00:21:43.679 --> 00:21:45.039
+of myself like dude i can't believe i
+
+00:21:45.039 --> 00:21:47.120
+got my dog steps his [ __ ] rules
+
+00:21:47.120 --> 00:21:48.559
+so i couldn't imagine the feelings of
+
+00:21:48.559 --> 00:21:50.720
+pride yeah that's how i feel with uh my
+
+00:21:50.720 --> 00:21:51.600
+children being
+
+00:21:51.600 --> 00:21:55.280
+able to leave the house they go outside
+
+00:21:55.280 --> 00:21:59.679
+oh my god
+
+00:21:59.679 --> 00:22:01.039
+i was really pumped for you man i heard
+
+00:22:01.039 --> 00:22:01.919
+that and i was like that's [ __ ]
+
+00:22:01.919 --> 00:22:02.960
+awesome
+
+00:22:02.960 --> 00:22:06.000
+thank you uh tim to the point of your
+
+00:22:06.000 --> 00:22:07.440
+kids being happy i just want to mention
+
+00:22:07.440 --> 00:22:08.960
+last night tim's daughter lucy
+
+00:22:08.960 --> 00:22:10.400
+stayed at our house to hang out with my
+
+00:22:10.400 --> 00:22:12.400
+daughter livy and she did the sweetest
+
+00:22:12.400 --> 00:22:13.919
+thing i was up early this morning
+
+00:22:13.919 --> 00:22:15.360
+getting some work done before i leave
+
+00:22:15.360 --> 00:22:17.200
+had a leave for actual work
+
+00:22:17.200 --> 00:22:18.960
+and she she knocked on the door and
+
+00:22:18.960 --> 00:22:20.000
+she's like i just want to say good
+
+00:22:20.000 --> 00:22:21.200
+morning and then she went back to
+
+00:22:21.200 --> 00:22:22.320
+hanging out with libby it was the
+
+00:22:22.320 --> 00:22:23.280
+sweetest thing ever
+
+00:22:23.280 --> 00:22:25.360
+oh man oh that's adorable i'm glad to
+
+00:22:25.360 --> 00:22:26.480
+hear that
+
+00:22:26.480 --> 00:22:28.000
+well i also i think that is adorable i
+
+00:22:28.000 --> 00:22:29.360
+also think too like tim like you were
+
+00:22:29.360 --> 00:22:30.159
+saying man you were
+
+00:22:30.159 --> 00:22:33.200
+you were on the uh you know what
+
+00:22:33.200 --> 00:22:34.799
+would you call like the grist mill of
+
+00:22:34.799 --> 00:22:37.120
+kind of like structured
+
+00:22:37.120 --> 00:22:38.960
+careerism of just being like i was on
+
+00:22:38.960 --> 00:22:41.120
+the path of the noble loser
+
+00:22:41.120 --> 00:22:43.120
+yeah or just i mean you can win that's
+
+00:22:43.120 --> 00:22:44.640
+the thing like you can
+
+00:22:44.640 --> 00:22:46.320
+it's almost like a lottery system where
+
+00:22:46.320 --> 00:22:47.360
+it's like you know everyone's always
+
+00:22:47.360 --> 00:22:48.880
+disgruntled like that guy got the rip
+
+00:22:48.880 --> 00:22:49.919
+motion
+
+00:22:49.919 --> 00:22:51.120
+on everyone's kind of disgruntled
+
+00:22:51.120 --> 00:22:52.720
+waiting for their little like bingo card
+
+00:22:52.720 --> 00:22:53.520
+to be pulled
+
+00:22:53.520 --> 00:22:55.280
+but i do think like you know you went
+
+00:22:55.280 --> 00:22:56.799
+off the reservation and like started
+
+00:22:56.799 --> 00:22:57.440
+like
+
+00:22:57.440 --> 00:22:59.200
+doing your own thing and i swear to god
+
+00:22:59.200 --> 00:23:00.880
+it's like it's something that like
+
+00:23:00.880 --> 00:23:02.720
+there's people who just won't do that
+
+00:23:02.720 --> 00:23:03.919
+you know or they just don't you know
+
+00:23:03.919 --> 00:23:05.440
+have it in their have it in them to do
+
+00:23:05.440 --> 00:23:07.039
+that and it's like dude there's a
+
+00:23:07.039 --> 00:23:08.400
+definitely a thing like you know if you
+
+00:23:08.400 --> 00:23:09.600
+don't like your situation you can kind
+
+00:23:09.600 --> 00:23:10.960
+of go outside your comfort zone it's
+
+00:23:10.960 --> 00:23:12.240
+like you know i mean correct me if i'm
+
+00:23:12.240 --> 00:23:13.679
+wrong but like was that the thing that
+
+00:23:13.679 --> 00:23:15.280
+allowed you to kind of bust that move
+
+00:23:15.280 --> 00:23:15.679
+like
+
+00:23:15.679 --> 00:23:17.200
+i'm getting the [ __ ] out of here you
+
+00:23:17.200 --> 00:23:18.640
+mean like already being outside of my
+
+00:23:18.640 --> 00:23:19.679
+comfort zone
+
+00:23:19.679 --> 00:23:21.840
+yeah yeah absolutely dude i realized
+
+00:23:21.840 --> 00:23:23.600
+right before i moved that i was actually
+
+00:23:23.600 --> 00:23:24.799
+geographically stuck
+
+00:23:24.799 --> 00:23:26.880
+as well as emotionally stuck i was
+
+00:23:26.880 --> 00:23:28.480
+terrified of leaving
+
+00:23:28.480 --> 00:23:30.720
+a place where i was like the smartest
+
+00:23:30.720 --> 00:23:32.320
+and and
+
+00:23:32.320 --> 00:23:35.360
+least mutated because now
+
+00:23:35.360 --> 00:23:38.480
+now i'm just like now now i'm you know i
+
+00:23:38.480 --> 00:23:41.440
+don't know yeah it's fine
+
+00:23:41.600 --> 00:23:42.880
+i got yeah i'm getting tripped up
+
+00:23:42.880 --> 00:23:44.960
+thinking about it again but i boy oh boy
+
+00:23:44.960 --> 00:23:46.480
+i spent more time than i needed to in a
+
+00:23:46.480 --> 00:23:48.159
+terrible place because when it came time
+
+00:23:48.159 --> 00:23:49.039
+to leave i was like
+
+00:23:49.039 --> 00:23:52.400
+hold on yeah it's just speed wobbles
+
+00:23:52.400 --> 00:23:54.000
+dude i survived we're fine keep your
+
+00:23:54.000 --> 00:23:54.880
+knees bent
+
+00:23:54.880 --> 00:23:58.080
+be ready to absorb some shocks
+
+00:23:58.080 --> 00:24:01.200
+[ __ ] yeah we're okay mike how about you
+
+00:24:01.200 --> 00:24:01.679
+man
+
+00:24:01.679 --> 00:24:04.640
+you were you uh i wanna i wanna
+
+00:24:04.640 --> 00:24:06.799
+compliment you mike because um
+
+00:24:06.799 --> 00:24:08.799
+you know you've you've been a a source
+
+00:24:08.799 --> 00:24:10.720
+of uh stability for me
+
+00:24:10.720 --> 00:24:12.080
+i should thank you rather i wanna thank
+
+00:24:12.080 --> 00:24:13.440
+you for being a source of stability for
+
+00:24:13.440 --> 00:24:13.919
+me as
+
+00:24:13.919 --> 00:24:17.039
+uh everyone melts down and um just
+
+00:24:17.039 --> 00:24:18.559
+before i pass it over to you
+
+00:24:18.559 --> 00:24:20.080
+i do want to say i'm not [ __ ] on
+
+00:24:20.080 --> 00:24:22.159
+people who have had a hard time with
+
+00:24:22.159 --> 00:24:24.799
+uh the way things went in 2020. i i'm
+
+00:24:24.799 --> 00:24:25.679
+only
+
+00:24:25.679 --> 00:24:28.880
+uh offering um you know my my time and
+
+00:24:28.880 --> 00:24:30.240
+resources to people that
+
+00:24:30.240 --> 00:24:34.159
+don't want to uh be dominated by
+
+00:24:34.159 --> 00:24:37.760
+anything other than what's actually um
+
+00:24:37.760 --> 00:24:39.120
+affecting them in their life you know
+
+00:24:39.120 --> 00:24:40.559
+what i mean like yeah they'll not let
+
+00:24:40.559 --> 00:24:42.000
+the hysteria get to me
+
+00:24:42.000 --> 00:24:44.640
+thank goodness my uh my family after all
+
+00:24:44.640 --> 00:24:46.559
+of us surviving covid we've been
+
+00:24:46.559 --> 00:24:49.840
+healthy since and uh you know
+
+00:24:49.840 --> 00:24:52.320
+thankfully i didn't get laid off so i
+
+00:24:52.320 --> 00:24:54.320
+even even people in my position where
+
+00:24:54.320 --> 00:24:56.000
+you know no one died in their family and
+
+00:24:56.000 --> 00:24:57.520
+they all kept their jobs they
+
+00:24:57.520 --> 00:24:59.520
+they cracked up and mike you're a big
+
+00:24:59.520 --> 00:25:01.360
+reason uh that i didn't
+
+00:25:01.360 --> 00:25:03.840
+so thank you well you're welcome and
+
+00:25:03.840 --> 00:25:04.480
+also too
+
+00:25:04.480 --> 00:25:06.400
+just know the feeling's mutual because
+
+00:25:06.400 --> 00:25:08.159
+one of the one of the biggest
+
+00:25:08.159 --> 00:25:11.279
+um one of the biggest ways that i think
+
+00:25:11.279 --> 00:25:14.159
+stay on track with with any goal is to
+
+00:25:14.159 --> 00:25:15.039
+have somebody
+
+00:25:15.039 --> 00:25:16.480
+that you could bounce successes and
+
+00:25:16.480 --> 00:25:18.720
+failures or just even thoughts off of
+
+00:25:18.720 --> 00:25:21.520
+so i mean with what we're doing with
+
+00:25:21.520 --> 00:25:22.000
+dadmy
+
+00:25:22.000 --> 00:25:23.440
+you know it's it's cool to be able to
+
+00:25:23.440 --> 00:25:25.360
+talk about that with you two but also
+
+00:25:25.360 --> 00:25:27.600
+just literally anything that pops up i
+
+00:25:27.600 --> 00:25:29.039
+know that i could text you or call you
+
+00:25:29.039 --> 00:25:30.559
+and i'll get a response
+
+00:25:30.559 --> 00:25:33.039
+and having that kind of [ __ ] safety
+
+00:25:33.039 --> 00:25:34.240
+net
+
+00:25:34.240 --> 00:25:36.320
+is is really enough to keep me a lot of
+
+00:25:36.320 --> 00:25:37.840
+times from going off the rails and going
+
+00:25:37.840 --> 00:25:39.120
+off into my own [ __ ] and getting
+
+00:25:39.120 --> 00:25:40.880
+lost in my own thoughts
+
+00:25:40.880 --> 00:25:43.679
+so with that said 2020 could not have
+
+00:25:43.679 --> 00:25:45.200
+worked out any better like after we set
+
+00:25:45.200 --> 00:25:46.320
+our initial goals
+
+00:25:46.320 --> 00:25:47.279
+it was like all right i'm going to get
+
+00:25:47.279 --> 00:25:50.640
+this [ __ ] i remember one specific moment
+
+00:25:50.640 --> 00:25:54.320
+where i was having an issue with one of
+
+00:25:54.320 --> 00:25:55.039
+my kids
+
+00:25:55.039 --> 00:25:56.960
+and i was like it got to the point where
+
+00:25:56.960 --> 00:25:58.159
+like it was an issue with somebody
+
+00:25:58.159 --> 00:25:59.840
+outside of our family affecting our
+
+00:25:59.840 --> 00:26:00.400
+family
+
+00:26:00.400 --> 00:26:01.600
+and i was ready to honestly i was ready
+
+00:26:01.600 --> 00:26:03.600
+to kill this [ __ ] so
+
+00:26:03.600 --> 00:26:05.440
+and i remember saying saying to my
+
+00:26:05.440 --> 00:26:06.799
+daughter i was like look just so you
+
+00:26:06.799 --> 00:26:08.640
+know like this is the effect that
+
+00:26:08.640 --> 00:26:10.640
+that your behavior is having and i'm
+
+00:26:10.640 --> 00:26:12.240
+very close to killing this [ __ ]
+
+00:26:12.240 --> 00:26:14.000
+and i went i got my goals that we had
+
+00:26:14.000 --> 00:26:15.039
+set for the year
+
+00:26:15.039 --> 00:26:16.799
+and i was reading off my goals i was
+
+00:26:16.799 --> 00:26:18.559
+like look do you think i can accomplish
+
+00:26:18.559 --> 00:26:20.159
+this and as i'm reading off of my goals
+
+00:26:20.159 --> 00:26:21.039
+i'm like [ __ ] i probably could
+
+00:26:21.039 --> 00:26:22.960
+accomplish all these goals from prison
+
+00:26:22.960 --> 00:26:24.080
+think all right well let me get this
+
+00:26:24.080 --> 00:26:26.080
+away
+
+00:26:26.080 --> 00:26:28.720
+but what i'm getting to is that like i
+
+00:26:28.720 --> 00:26:29.279
+really
+
+00:26:29.279 --> 00:26:31.520
+to accomplish these goals i didn't need
+
+00:26:31.520 --> 00:26:33.360
+prison what i really needed was time and
+
+00:26:33.360 --> 00:26:34.640
+lo and behold
+
+00:26:34.640 --> 00:26:37.279
+i've got pretty much the last [ __ ]
+
+00:26:37.279 --> 00:26:38.799
+eight months
+
+00:26:38.799 --> 00:26:41.520
+to just work just hours upon hours upon
+
+00:26:41.520 --> 00:26:42.159
+hours
+
+00:26:42.159 --> 00:26:44.000
+to just work on the [ __ ] that i had set
+
+00:26:44.000 --> 00:26:45.760
+for the year
+
+00:26:45.760 --> 00:26:47.840
+so i have a very flexible work schedule
+
+00:26:47.840 --> 00:26:49.360
+i've been very fortunate with that
+
+00:26:49.360 --> 00:26:51.279
+health-wise i've been very healthy so i
+
+00:26:51.279 --> 00:26:52.640
+mean i've been
+
+00:26:52.640 --> 00:26:54.080
+you know the luckiest out of the lucky
+
+00:26:54.080 --> 00:26:56.000
+through this whole thing so
+
+00:26:56.000 --> 00:26:59.200
+the way that this year [ __ ] unfolded
+
+00:26:59.200 --> 00:27:00.880
+for me personally could not have worked
+
+00:27:00.880 --> 00:27:04.159
+out any better um
+
+00:27:04.159 --> 00:27:05.600
+so i took advantage of it a lot of
+
+00:27:05.600 --> 00:27:07.279
+respects but also too like here hearing
+
+00:27:07.279 --> 00:27:08.000
+you guys
+
+00:27:08.000 --> 00:27:10.000
+wes and matt hearing you guys um talk on
+
+00:27:10.000 --> 00:27:11.760
+romas on the most recent episode
+
+00:27:11.760 --> 00:27:12.960
+it made me realize like [ __ ] like
+
+00:27:12.960 --> 00:27:14.400
+there's always room for tightening this
+
+00:27:14.400 --> 00:27:15.039
+[ __ ] up
+
+00:27:15.039 --> 00:27:16.799
+because i still do spend a lot of time
+
+00:27:16.799 --> 00:27:18.960
+complaining that i don't have time
+
+00:27:18.960 --> 00:27:20.640
+but if i actually took into account set
+
+00:27:20.640 --> 00:27:22.080
+a timer and say like the second i
+
+00:27:22.080 --> 00:27:22.960
+started complaining
+
+00:27:22.960 --> 00:27:25.679
+hit a [ __ ] stopwatch in a given day i
+
+00:27:25.679 --> 00:27:27.520
+could probably squeeze out like another
+
+00:27:27.520 --> 00:27:29.279
+[ __ ] hour or two
+
+00:27:29.279 --> 00:27:30.640
+right to dedicate towards [ __ ] i
+
+00:27:30.640 --> 00:27:31.600
+actually want to get done instead of
+
+00:27:31.600 --> 00:27:34.080
+being a [ __ ] baby about [ __ ] so
+
+00:27:34.080 --> 00:27:35.520
+there's always room to tighten [ __ ] up
+
+00:27:35.520 --> 00:27:36.240
+and i think
+
+00:27:36.240 --> 00:27:38.159
+that made me go back and go over my
+
+00:27:38.159 --> 00:27:39.600
+goals and think like all right [ __ ] i
+
+00:27:39.600 --> 00:27:40.720
+really need to work on this and it's
+
+00:27:40.720 --> 00:27:42.320
+just about discipline making time for
+
+00:27:42.320 --> 00:27:43.360
+this [ __ ]
+
+00:27:43.360 --> 00:27:46.320
+so external circumstances can can
+
+00:27:46.320 --> 00:27:47.600
+[ __ ] eat my ass
+
+00:27:47.600 --> 00:27:51.520
+because everything aside from health
+
+00:27:51.520 --> 00:27:53.760
+health and job wise shook out correctly
+
+00:27:53.760 --> 00:27:54.880
+the best possible way
+
+00:27:54.880 --> 00:27:56.480
+best possible way it could have knife
+
+00:27:56.480 --> 00:27:58.640
+wise knifewise we're getting people
+
+00:27:58.640 --> 00:28:00.240
+mailing knives to us now
+
+00:28:00.240 --> 00:28:02.000
+which is you know all i want out of a
+
+00:28:02.000 --> 00:28:04.240
+person and all i want to put into a
+
+00:28:04.240 --> 00:28:05.279
+person
+
+00:28:05.279 --> 00:28:09.919
+um dude it really is the [ __ ]
+
+00:28:09.919 --> 00:28:11.840
+best of situations right now and i mean
+
+00:28:11.840 --> 00:28:14.320
+given whatever problems i have like
+
+00:28:14.320 --> 00:28:17.039
+it's just a matter of just regaining uh
+
+00:28:17.039 --> 00:28:18.399
+context for what's going on and it's
+
+00:28:18.399 --> 00:28:18.880
+just i
+
+00:28:18.880 --> 00:28:20.559
+really [ __ ] you know i feel like the
+
+00:28:20.559 --> 00:28:22.480
+luckiest guy in the world
+
+00:28:22.480 --> 00:28:24.159
+well to your point mike i mean i think
+
+00:28:24.159 --> 00:28:25.760
+you're spot on
+
+00:28:25.760 --> 00:28:28.240
+play out this scenario where we had to
+
+00:28:28.240 --> 00:28:30.080
+we had to have restrictions on going out
+
+00:28:30.080 --> 00:28:31.520
+there play out that scenario 20 years
+
+00:28:31.520 --> 00:28:32.559
+ago
+
+00:28:32.559 --> 00:28:34.480
+i mean the internet had the internet
+
+00:28:34.480 --> 00:28:36.320
+alone right just gave us
+
+00:28:36.320 --> 00:28:38.399
+so much more landscape and blank canvas
+
+00:28:38.399 --> 00:28:39.919
+to draw on regardless of whether or not
+
+00:28:39.919 --> 00:28:42.000
+we can go out to our local restaurant
+
+00:28:42.000 --> 00:28:45.440
+um and it allowed even more time and
+
+00:28:45.440 --> 00:28:46.000
+space
+
+00:28:46.000 --> 00:28:47.440
+for people like you who wanted to take
+
+00:28:47.440 --> 00:28:49.520
+advantage of it um so man i
+
+00:28:49.520 --> 00:28:51.440
+i give you credit i think that's exactly
+
+00:28:51.440 --> 00:28:52.799
+what you should have been doing and by
+
+00:28:52.799 --> 00:28:53.440
+the way still
+
+00:28:53.440 --> 00:28:55.760
+now as we as we look potentially into
+
+00:28:55.760 --> 00:28:57.520
+taking a double dip to a certain degree
+
+00:28:57.520 --> 00:28:58.000
+back into
+
+00:28:58.000 --> 00:28:59.679
+this thing it's like if you guys haven't
+
+00:28:59.679 --> 00:29:01.360
+done that if anybody listen hasn't done
+
+00:29:01.360 --> 00:29:02.080
+that
+
+00:29:02.080 --> 00:29:04.640
+um do it now or there's still there's
+
+00:29:04.640 --> 00:29:08.080
+still time and space that might not be
+
+00:29:08.080 --> 00:29:09.520
+similar in the future because everything
+
+00:29:09.520 --> 00:29:10.960
+will be fully back up and up again but
+
+00:29:10.960 --> 00:29:11.600
+it's like
+
+00:29:11.600 --> 00:29:13.520
+you've got this you've got this uh court
+
+00:29:13.520 --> 00:29:15.039
+that you can play on nobody's on it so
+
+00:29:15.039 --> 00:29:16.640
+so go full out
+
+00:29:16.640 --> 00:29:18.960
+well it's also too many the uh because i
+
+00:29:18.960 --> 00:29:20.480
+i struggle with like you know because we
+
+00:29:20.480 --> 00:29:21.919
+we we'll talk to dudes and they're just
+
+00:29:21.919 --> 00:29:22.480
+like
+
+00:29:22.480 --> 00:29:23.679
+you know i'm like you know we'll talk
+
+00:29:23.679 --> 00:29:24.480
+about like you know they're like i'm
+
+00:29:24.480 --> 00:29:25.679
+real sleep deprived when we go through
+
+00:29:25.679 --> 00:29:27.120
+their schedule and it's it's like
+
+00:29:27.120 --> 00:29:28.720
+you know maxed out like you know i'm
+
+00:29:28.720 --> 00:29:30.399
+working night shift my wife works during
+
+00:29:30.399 --> 00:29:31.200
+the day
+
+00:29:31.200 --> 00:29:32.960
+you know there's really there's really
+
+00:29:32.960 --> 00:29:35.039
+like you're almost like damn dude like
+
+00:29:35.039 --> 00:29:36.480
+i don't have any i can't even think of
+
+00:29:36.480 --> 00:29:38.559
+anything you know but
+
+00:29:38.559 --> 00:29:39.840
+another thing i've been reading about in
+
+00:29:39.840 --> 00:29:42.159
+terms of just like one's values
+
+00:29:42.159 --> 00:29:43.840
+are just their attitudinal values so
+
+00:29:43.840 --> 00:29:45.279
+it's like how do you okay you say you
+
+00:29:45.279 --> 00:29:46.960
+can't change a thing at all
+
+00:29:46.960 --> 00:29:50.000
+you can always gauge and kind of
+
+00:29:50.000 --> 00:29:51.679
+customize the way you face it and that
+
+00:29:51.679 --> 00:29:53.440
+makes a humongous difference man
+
+00:29:53.440 --> 00:29:54.880
+of like people like you don't understand
+
+00:29:54.880 --> 00:29:56.559
+like you know i got fired i got this i
+
+00:29:56.559 --> 00:29:58.399
+got that i got this you know no no like
+
+00:29:58.399 --> 00:30:00.080
+10 minute conversation is going to solve
+
+00:30:00.080 --> 00:30:02.240
+anything but what people can always do
+
+00:30:02.240 --> 00:30:04.240
+is just face thing either you can let it
+
+00:30:04.240 --> 00:30:05.760
+destroy you or you can just buck up
+
+00:30:05.760 --> 00:30:06.320
+through it
+
+00:30:06.320 --> 00:30:08.399
+and face it and it's like people would
+
+00:30:08.399 --> 00:30:10.480
+be surprised how much of a changing
+
+00:30:10.480 --> 00:30:12.399
+effect that has on almost everything
+
+00:30:12.399 --> 00:30:14.240
+because then once you know once points
+
+00:30:14.240 --> 00:30:15.840
+you know dissipates
+
+00:30:15.840 --> 00:30:17.520
+uh you know it's like you have a whole
+
+00:30:17.520 --> 00:30:19.039
+different mindset you know and it just
+
+00:30:19.039 --> 00:30:19.679
+like
+
+00:30:19.679 --> 00:30:21.679
+dude a lot of that stuff again i'm
+
+00:30:21.679 --> 00:30:22.799
+always going back to all the jobs i've
+
+00:30:22.799 --> 00:30:23.279
+been out
+
+00:30:23.279 --> 00:30:25.200
+it sucks i should be promoted i should
+
+00:30:25.200 --> 00:30:26.480
+be promoted blah blah blah and it's like
+
+00:30:26.480 --> 00:30:28.480
+well maybe you act like a dick kind of
+
+00:30:28.480 --> 00:30:29.760
+all the time you know like that has an
+
+00:30:29.760 --> 00:30:30.960
+effect when you're walking around being
+
+00:30:30.960 --> 00:30:32.640
+like [ __ ] [ __ ] [ __ ] this guy i
+
+00:30:32.640 --> 00:30:34.000
+should blah blah blah blah it's like
+
+00:30:34.000 --> 00:30:36.880
+people pick up on that man it sucks so
+
+00:30:36.880 --> 00:30:38.480
+oh man i that's one thing i never want
+
+00:30:38.480 --> 00:30:39.919
+to be again is the guy at work that's
+
+00:30:39.919 --> 00:30:41.039
+like
+
+00:30:41.039 --> 00:30:42.240
+management has no idea what they're
+
+00:30:42.240 --> 00:30:44.720
+doing man if they let me run this place
+
+00:30:44.720 --> 00:30:46.240
+i've probably been that guy i never want
+
+00:30:46.240 --> 00:30:47.180
+to be that again
+
+00:30:47.180 --> 00:30:48.320
+[Music]
+
+00:30:48.320 --> 00:30:49.919
+everyone does dude i mean everyone i've
+
+00:30:49.919 --> 00:30:51.440
+i've sucked into it of being at be like
+
+00:30:51.440 --> 00:30:52.880
+like yeah i'd be in a house that was
+
+00:30:52.880 --> 00:30:54.640
+being built and i could like barely
+
+00:30:54.640 --> 00:30:55.600
+staple the
+
+00:30:55.600 --> 00:30:57.360
+wires to like a two by four and be like
+
+00:30:57.360 --> 00:30:58.559
+these guys don't even know what they're
+
+00:30:58.559 --> 00:30:59.760
+doing
+
+00:30:59.760 --> 00:31:01.519
+i would just like smash the staple every
+
+00:31:01.519 --> 00:31:04.000
+time your flannels like your flannel's
+
+00:31:04.000 --> 00:31:05.030
+also stapled to the tube
+
+00:31:05.030 --> 00:31:07.519
+[Laughter]
+
+00:31:07.519 --> 00:31:09.039
+yeah it's kind of unavoidable man it's
+
+00:31:09.039 --> 00:31:10.960
+like dude did you see the thing about
+
+00:31:10.960 --> 00:31:13.519
+uh con or yeah kim kardashian had a
+
+00:31:13.519 --> 00:31:14.559
+hologram of her
+
+00:31:14.559 --> 00:31:17.519
+dad at her like 40th birthday yeah i saw
+
+00:31:17.519 --> 00:31:18.399
+that that rules
+
+00:31:18.399 --> 00:31:20.720
+kanye west gave her a hologram of her
+
+00:31:20.720 --> 00:31:22.960
+late father to be like you know like hey
+
+00:31:22.960 --> 00:31:24.799
+kimberly like we missed you you know
+
+00:31:24.799 --> 00:31:26.559
+like i you know blah blah blah
+
+00:31:26.559 --> 00:31:28.320
+and you know i thought i thought it was
+
+00:31:28.320 --> 00:31:29.679
+a pretty sick gift or whatever
+
+00:31:29.679 --> 00:31:30.880
+it was a strange it was definitely
+
+00:31:30.880 --> 00:31:32.880
+strange but like i was looking at the
+
+00:31:32.880 --> 00:31:34.799
+you know supposed fallout of that event
+
+00:31:34.799 --> 00:31:36.799
+and there was people who would go like
+
+00:31:36.799 --> 00:31:38.559
+i'm a librarian and i only make eight
+
+00:31:38.559 --> 00:31:41.200
+four eight dollars and 48 cents an hour
+
+00:31:41.200 --> 00:31:43.360
+and you get to look at a hologram that's
+
+00:31:43.360 --> 00:31:44.799
+what's wrong with this conversation
+
+00:31:44.799 --> 00:31:47.120
+nice well it's just just the narcissism
+
+00:31:47.120 --> 00:31:49.039
+of being like i'm i'm a librarian and
+
+00:31:49.039 --> 00:31:51.360
+i'm somehow related to this lady's
+
+00:31:51.360 --> 00:31:52.799
+40th birthday part it's like that has
+
+00:31:52.799 --> 00:31:54.080
+nothing it just doesn't have anything to
+
+00:31:54.080 --> 00:31:55.120
+do with you i understand like the
+
+00:31:55.120 --> 00:31:56.480
+connection you're trying to make here
+
+00:31:56.480 --> 00:31:57.919
+but it's like
+
+00:31:57.919 --> 00:32:00.159
+like that kind of like you know i my
+
+00:32:00.159 --> 00:32:01.919
+hate my circumstances you know i'm gonna
+
+00:32:01.919 --> 00:32:03.760
+sit here and wallow in it and wait till
+
+00:32:03.760 --> 00:32:04.640
+i hear
+
+00:32:04.640 --> 00:32:06.480
+somebody doing a thing that sounds kind
+
+00:32:06.480 --> 00:32:07.919
+of cool and being like you shouldn't do
+
+00:32:07.919 --> 00:32:09.200
+that it's like
+
+00:32:09.200 --> 00:32:11.279
+i don't know man i i really really
+
+00:32:11.279 --> 00:32:12.960
+dislike that kind of mindset yeah i
+
+00:32:12.960 --> 00:32:14.480
+think that that's like a pretty uh
+
+00:32:14.480 --> 00:32:15.919
+prevalent mindset on the internet i
+
+00:32:15.919 --> 00:32:17.200
+think people are just very
+
+00:32:17.200 --> 00:32:19.440
+very eager to start an internet post
+
+00:32:19.440 --> 00:32:20.240
+with
+
+00:32:20.240 --> 00:32:22.880
+uh azza so you'd be like uh as a
+
+00:32:22.880 --> 00:32:26.159
+librarian who only makes eight dollars
+
+00:32:26.159 --> 00:32:27.679
+and that's all they want to do and
+
+00:32:27.679 --> 00:32:29.519
+really they just want someone to to know
+
+00:32:29.519 --> 00:32:30.960
+something about them that's all it is
+
+00:32:30.960 --> 00:32:31.360
+dude
+
+00:32:31.360 --> 00:32:33.440
+yeah i think i guess you're right i
+
+00:32:33.440 --> 00:32:34.799
+could see that it just like
+
+00:32:34.799 --> 00:32:36.640
+i just think it's just a bad mindset
+
+00:32:36.640 --> 00:32:38.399
+it's like dude you again like
+
+00:32:38.399 --> 00:32:40.559
+you do essentially almost have i
+
+00:32:40.559 --> 00:32:42.159
+wouldn't say a totally blank canvas in
+
+00:32:42.159 --> 00:32:43.840
+front of you but it's a lot blanker than
+
+00:32:43.840 --> 00:32:45.440
+people think and a lot of the stuff on
+
+00:32:45.440 --> 00:32:46.640
+it is just
+
+00:32:46.640 --> 00:32:48.640
+typically a lot of your own stuff and
+
+00:32:48.640 --> 00:32:50.080
+then again people like well you know
+
+00:32:50.080 --> 00:32:51.360
+people have different circumstances of
+
+00:32:51.360 --> 00:32:52.880
+course of course of course you know but
+
+00:32:52.880 --> 00:32:54.640
+again that is your circumstance you're
+
+00:32:54.640 --> 00:32:55.760
+you're not going to be able to transcend
+
+00:32:55.760 --> 00:32:58.000
+that other than giving it a full honest
+
+00:32:58.000 --> 00:32:59.440
+look and just going
+
+00:32:59.440 --> 00:33:01.120
+full bore on your own personal
+
+00:33:01.120 --> 00:33:03.200
+circumstances rather than being like
+
+00:33:03.200 --> 00:33:04.640
+kim kardashian had a hologram on her
+
+00:33:04.640 --> 00:33:06.080
+birthday i got a couple thoughts about
+
+00:33:06.080 --> 00:33:07.360
+that it's like don't think about that
+
+00:33:07.360 --> 00:33:09.360
+it has nothing to do with not real
+
+00:33:09.360 --> 00:33:10.960
+that's nothing it was a hologram they
+
+00:33:10.960 --> 00:33:13.760
+didn't bring your dad back
+
+00:33:13.919 --> 00:33:15.600
+kanye should be a real [ __ ] and send
+
+00:33:15.600 --> 00:33:17.440
+like a thousand holograms
+
+00:33:17.440 --> 00:33:19.919
+to that to the librarians library and
+
+00:33:19.919 --> 00:33:24.399
+just talk at max volume i don't want to
+
+00:33:24.399 --> 00:33:25.840
+be like a dick about like you know and i
+
+00:33:25.840 --> 00:33:27.120
+understand like people are hurting it
+
+00:33:27.120 --> 00:33:28.240
+sucks when you know when you're jammed
+
+00:33:28.240 --> 00:33:28.799
+up like that
+
+00:33:28.799 --> 00:33:32.320
+does suck but it's like dude i'm like
+
+00:33:32.320 --> 00:33:34.159
+especially like when i went to social
+
+00:33:34.159 --> 00:33:36.000
+work school there was a
+
+00:33:36.000 --> 00:33:37.360
+all this stuff you know there's this big
+
+00:33:37.360 --> 00:33:38.799
+thing and i i think it is a good thing
+
+00:33:38.799 --> 00:33:40.080
+but they're like you got to meet people
+
+00:33:40.080 --> 00:33:41.279
+where they're at you got to meet people
+
+00:33:41.279 --> 00:33:42.559
+where they're at and it's like you know
+
+00:33:42.559 --> 00:33:44.240
+okay yeah totally like you can't see
+
+00:33:44.240 --> 00:33:45.360
+somebody who
+
+00:33:45.360 --> 00:33:47.279
+you know maybe they just got out of jail
+
+00:33:47.279 --> 00:33:48.480
+have never had a job in their life and
+
+00:33:48.480 --> 00:33:49.600
+be like all right dude here's a suit and
+
+00:33:49.600 --> 00:33:50.000
+a tie
+
+00:33:50.000 --> 00:33:51.279
+you know you do have to meet people
+
+00:33:51.279 --> 00:33:53.120
+where they're at but it's also like
+
+00:33:53.120 --> 00:33:54.960
+at the same time again with that thing
+
+00:33:54.960 --> 00:33:56.240
+of like you can meet somebody where
+
+00:33:56.240 --> 00:33:57.679
+they're at while also
+
+00:33:57.679 --> 00:33:59.600
+trying to assess and tap into like their
+
+00:33:59.600 --> 00:34:01.360
+unrealized potential and it's like you
+
+00:34:01.360 --> 00:34:02.159
+know you can't
+
+00:34:02.159 --> 00:34:03.519
+whenever people just commiserate and
+
+00:34:03.519 --> 00:34:04.799
+they're like yeah anyone who has
+
+00:34:04.799 --> 00:34:05.679
+anything more than us
+
+00:34:05.679 --> 00:34:07.519
+sucks it's like you're totally cutting
+
+00:34:07.519 --> 00:34:08.879
+off your own foot like you you could
+
+00:34:08.879 --> 00:34:10.240
+have more stuff or could have a better
+
+00:34:10.240 --> 00:34:12.079
+setup but it's you know just
+
+00:34:12.079 --> 00:34:13.440
+it's risky and it takes a lot of
+
+00:34:13.440 --> 00:34:14.879
+personal risk and you know it's like
+
+00:34:14.879 --> 00:34:16.320
+it's just easier to kind of sit in your
+
+00:34:16.320 --> 00:34:17.919
+little rabbit hole and be like
+
+00:34:17.919 --> 00:34:20.960
+everyone sucks but me it's like i guess
+
+00:34:20.960 --> 00:34:22.480
+i agree with having to meet people where
+
+00:34:22.480 --> 00:34:24.320
+they're at because uh i mean
+
+00:34:24.320 --> 00:34:26.240
+sometimes i think like what what would
+
+00:34:26.240 --> 00:34:27.359
+it be like if someone started like a
+
+00:34:27.359 --> 00:34:29.040
+podcast where like uh
+
+00:34:29.040 --> 00:34:30.639
+i don't know what if it was like really
+
+00:34:30.639 --> 00:34:33.520
+funny and like the the type of humor was
+
+00:34:33.520 --> 00:34:35.520
+often like you know kind of rude and
+
+00:34:35.520 --> 00:34:35.919
+like
+
+00:34:35.919 --> 00:34:37.839
+you know very uh very like you're not
+
+00:34:37.839 --> 00:34:39.440
+stuff you're not supposed to say
+
+00:34:39.440 --> 00:34:41.760
+but then also like hidden in that humor
+
+00:34:41.760 --> 00:34:43.440
+was like a message of like getting out
+
+00:34:43.440 --> 00:34:44.960
+and getting things done for yourself i
+
+00:34:44.960 --> 00:34:45.839
+just think that would be like a really
+
+00:34:45.839 --> 00:34:48.320
+cool podcast
+
+00:34:52.480 --> 00:34:54.240
+it is true it is true but they do it in
+
+00:34:54.240 --> 00:34:55.839
+like in the help they call it the
+
+00:34:55.839 --> 00:34:57.280
+helping or i think that's like nursing
+
+00:34:57.280 --> 00:34:58.640
+and stuff but in like counseling there's
+
+00:34:58.640 --> 00:34:59.760
+this big thing where you're always
+
+00:34:59.760 --> 00:35:01.359
+supposed to like never
+
+00:35:01.359 --> 00:35:03.119
+show any part of yourself or like you
+
+00:35:03.119 --> 00:35:04.720
+know you're not supposed to be like
+
+00:35:04.720 --> 00:35:06.720
+judgmental but it's also like almost
+
+00:35:06.720 --> 00:35:08.079
+like you should never push people you
+
+00:35:08.079 --> 00:35:09.599
+should always be like yeah that's gotta
+
+00:35:09.599 --> 00:35:11.760
+be hard
+
+00:35:11.760 --> 00:35:13.200
+tell me about that where you know
+
+00:35:13.200 --> 00:35:15.119
+sometimes people need a little like dude
+
+00:35:15.119 --> 00:35:16.880
+like i worked with kids in high school
+
+00:35:16.880 --> 00:35:18.640
+and the guy was doing like uh
+
+00:35:18.640 --> 00:35:20.640
+not identity theft but like trying to do
+
+00:35:20.640 --> 00:35:22.000
+like cyber crime
+
+00:35:22.000 --> 00:35:23.440
+and i was like him and his buddies or
+
+00:35:23.440 --> 00:35:25.119
+like high school you know like juniors
+
+00:35:25.119 --> 00:35:26.320
+or whatever and i'm looking at them like
+
+00:35:26.320 --> 00:35:27.680
+dude don't do that like just don't do
+
+00:35:27.680 --> 00:35:28.160
+that
+
+00:35:28.160 --> 00:35:29.760
+you can't pull that off there's
+
+00:35:29.760 --> 00:35:31.280
+companies spending millions of dollars
+
+00:35:31.280 --> 00:35:32.400
+to combat you
+
+00:35:32.400 --> 00:35:33.920
+and you barely know how to work venmo
+
+00:35:33.920 --> 00:35:35.280
+it's like stop dude what kind of crimes
+
+00:35:35.280 --> 00:35:36.320
+are they trying to do
+
+00:35:36.320 --> 00:35:38.640
+just do like that stuff where you like
+
+00:35:38.640 --> 00:35:39.440
+somehow
+
+00:35:39.440 --> 00:35:41.200
+set up you like you buy credit card
+
+00:35:41.200 --> 00:35:43.040
+numbers online and then try to like set
+
+00:35:43.040 --> 00:35:44.640
+up fake venmos and you know he's like yo
+
+00:35:44.640 --> 00:35:46.000
+we got like three bucks i'm like dude
+
+00:35:46.000 --> 00:35:46.800
+just don't
+
+00:35:46.800 --> 00:35:48.480
+don't that three bucks is coming with a
+
+00:35:48.480 --> 00:35:50.320
+bad price tag dude
+
+00:35:50.320 --> 00:35:51.839
+was just before or after you became boys
+
+00:35:51.839 --> 00:35:54.480
+with john mcafee this is after
+
+00:35:54.480 --> 00:35:58.640
+actually before this is before
+
+00:35:58.640 --> 00:36:01.440
+as before yeah exactly it's like you
+
+00:36:01.440 --> 00:36:03.119
+know mcafee maybe you could pull it off
+
+00:36:03.119 --> 00:36:04.880
+you just talk to people and they would
+
+00:36:04.880 --> 00:36:06.079
+have you believe that you're supposed to
+
+00:36:06.079 --> 00:36:07.040
+be like
+
+00:36:07.040 --> 00:36:09.119
+um yeah well tell me more about that
+
+00:36:09.119 --> 00:36:10.160
+it's like dude stop
+
+00:36:10.160 --> 00:36:11.760
+don't do that like you're i think you
+
+00:36:11.760 --> 00:36:12.800
+know you should be able to do stuff like
+
+00:36:12.800 --> 00:36:13.920
+that does it matter to me in prison
+
+00:36:13.920 --> 00:36:14.880
+right now i'm sorry
+
+00:36:14.880 --> 00:36:16.720
+i mean i think he did no he did
+
+00:36:16.720 --> 00:36:18.079
+something funny is going on like
+
+00:36:18.079 --> 00:36:20.160
+i saw him popping off about something as
+
+00:36:20.160 --> 00:36:22.079
+recently as last week well he wore
+
+00:36:22.079 --> 00:36:23.119
+panties on his face
+
+00:36:23.119 --> 00:36:24.240
+instead of a mask and then he got
+
+00:36:24.240 --> 00:36:26.240
+arrested for that
+
+00:36:26.240 --> 00:36:28.960
+uh which sick move i honestly i you know
+
+00:36:28.960 --> 00:36:30.240
+i'm not stealing credit but i did talk
+
+00:36:30.240 --> 00:36:33.359
+about doing that before you got trouble
+
+00:36:36.000 --> 00:36:37.599
+but yeah well i gotta give you guys
+
+00:36:37.599 --> 00:36:39.760
+credit because number one matt i totally
+
+00:36:39.760 --> 00:36:41.119
+agree with what you're saying
+
+00:36:41.119 --> 00:36:44.960
+i cannot stand the the neutral blank
+
+00:36:44.960 --> 00:36:45.440
+stare
+
+00:36:45.440 --> 00:36:47.119
+looking back at the face of somebody
+
+00:36:47.119 --> 00:36:48.640
+who's asking for your advice and you
+
+00:36:48.640 --> 00:36:50.960
+just give some sort of clinical answer
+
+00:36:50.960 --> 00:36:52.560
+but you don't tell them what you would
+
+00:36:52.560 --> 00:36:55.200
+do in their position at the same time
+
+00:36:55.200 --> 00:36:56.400
+making sure that you say hey like
+
+00:36:56.400 --> 00:36:58.160
+there's under there's nuances to your
+
+00:36:58.160 --> 00:36:59.200
+situation that i'm never going to
+
+00:36:59.200 --> 00:37:00.320
+understand because i don't live in your
+
+00:37:00.320 --> 00:37:01.440
+shoes but
+
+00:37:01.440 --> 00:37:04.720
+my best guess is this and i find that
+
+00:37:04.720 --> 00:37:07.520
+if you go into it and your true
+
+00:37:07.520 --> 00:37:08.000
+intention
+
+00:37:08.000 --> 00:37:10.320
+is to help that person then even if it's
+
+00:37:10.320 --> 00:37:12.800
+tough love it's not taken as criticism
+
+00:37:12.800 --> 00:37:14.480
+it's like hey i'm fighting for you and
+
+00:37:14.480 --> 00:37:16.160
+for your better self so therefore i'm
+
+00:37:16.160 --> 00:37:17.359
+going to tell you with a certain
+
+00:37:17.359 --> 00:37:19.760
+force of emotion that what you should do
+
+00:37:19.760 --> 00:37:21.200
+or at least what i think
+
+00:37:21.200 --> 00:37:23.440
+you should do if i were in your shoes um
+
+00:37:23.440 --> 00:37:24.400
+so uh
+
+00:37:24.400 --> 00:37:26.480
+so man i think you know guys like you
+
+00:37:26.480 --> 00:37:27.920
+that for the dad meet podcast
+
+00:37:27.920 --> 00:37:29.680
+i i really have to give you a huge
+
+00:37:29.680 --> 00:37:31.119
+compliment because what you guys have
+
+00:37:31.119 --> 00:37:31.760
+done
+
+00:37:31.760 --> 00:37:35.119
+incredibly well at is almost the way
+
+00:37:35.119 --> 00:37:36.800
+that i envision kind of like our
+
+00:37:36.800 --> 00:37:39.359
+our warrior ancestors like you go out
+
+00:37:39.359 --> 00:37:40.960
+and you fight a battle with everything
+
+00:37:40.960 --> 00:37:41.680
+you have
+
+00:37:41.680 --> 00:37:43.680
+during the day and then you come back at
+
+00:37:43.680 --> 00:37:44.720
+night and you want to meet with your
+
+00:37:44.720 --> 00:37:45.440
+tribe
+
+00:37:45.440 --> 00:37:47.440
+and talk about successes talk about
+
+00:37:47.440 --> 00:37:48.720
+losses whatever it was
+
+00:37:48.720 --> 00:37:50.000
+and then just kick back and have a good
+
+00:37:50.000 --> 00:37:52.160
+time because you need that
+
+00:37:52.160 --> 00:37:54.400
+that time that just to have fun and just
+
+00:37:54.400 --> 00:37:56.880
+to be a dude is kind of like a kid again
+
+00:37:56.880 --> 00:37:58.720
+because you need that rejuvenation for
+
+00:37:58.720 --> 00:38:00.400
+the next day because next day's gonna be
+
+00:38:00.400 --> 00:38:01.520
+[ __ ] hard again
+
+00:38:01.520 --> 00:38:02.960
+so i i gotta i gotta give you guys
+
+00:38:02.960 --> 00:38:04.640
+credit you've done a phenomenal job of
+
+00:38:04.640 --> 00:38:05.359
+making that
+
+00:38:05.359 --> 00:38:07.680
+cocktail uh really pleasurable uh to
+
+00:38:07.680 --> 00:38:09.280
+listen to oh that's so generous of you
+
+00:38:09.280 --> 00:38:09.760
+thank you
+
+00:38:09.760 --> 00:38:12.480
+thank you dude yeah the earnestly dude
+
+00:38:12.480 --> 00:38:14.079
+you know i like to think of myself as
+
+00:38:14.079 --> 00:38:16.000
+like mel gibson and braveheart and also
+
+00:38:16.000 --> 00:38:17.920
+too i'm a lot like mel gibson if um
+
+00:38:17.920 --> 00:38:19.520
+in regards to the voicemails i leave my
+
+00:38:19.520 --> 00:38:21.200
+wife
+
+00:38:21.200 --> 00:38:23.920
+that means a lot to me brother
+
+00:38:23.920 --> 00:38:26.010
+[Laughter]
+
+00:38:26.010 --> 00:38:27.280
+[Music]
+
+00:38:27.280 --> 00:38:30.480
+my uh wes oh but before i forget
+
+00:38:30.480 --> 00:38:33.680
+uh my wife asked me to thank you
+
+00:38:33.680 --> 00:38:36.480
+uh after after we had our like sit down
+
+00:38:36.480 --> 00:38:36.720
+and
+
+00:38:36.720 --> 00:38:38.880
+uh goal setting meeting i came home and
+
+00:38:38.880 --> 00:38:40.320
+uh my wife has been a
+
+00:38:40.320 --> 00:38:42.720
+full-time mom for the past 12 years
+
+00:38:42.720 --> 00:38:43.760
+she's she's staying home she's had
+
+00:38:43.760 --> 00:38:45.280
+part-time jobs here and there
+
+00:38:45.280 --> 00:38:48.640
+but uh she
+
+00:38:48.640 --> 00:38:49.680
+she doesn't have any kind of like
+
+00:38:49.680 --> 00:38:52.480
+inferiority complex about it but she
+
+00:38:52.480 --> 00:38:55.760
+she does like she was very receptive to
+
+00:38:55.760 --> 00:38:57.119
+to the idea of like finding some
+
+00:38:57.119 --> 00:38:58.400
+direction for yourself
+
+00:38:58.400 --> 00:39:00.640
+even in the context of harley yeah mom
+
+00:39:00.640 --> 00:39:01.680
+so i came home and
+
+00:39:01.680 --> 00:39:03.040
+i sat down and i had the same goal
+
+00:39:03.040 --> 00:39:05.040
+setting meeting with her and
+
+00:39:05.040 --> 00:39:08.000
+i think that's awesome dude yeah well so
+
+00:39:08.000 --> 00:39:08.720
+i took a
+
+00:39:08.720 --> 00:39:11.359
+uh a cue from you and i i can't tell you
+
+00:39:11.359 --> 00:39:12.800
+how much it meant to me just have you
+
+00:39:12.800 --> 00:39:13.359
+take me
+
+00:39:13.359 --> 00:39:15.760
+seriously so yeah where where i s with
+
+00:39:15.760 --> 00:39:17.119
+my perception of you
+
+00:39:17.119 --> 00:39:19.119
+and for you to you know my perception of
+
+00:39:19.119 --> 00:39:21.440
+myself for you to bridge that gap
+
+00:39:21.440 --> 00:39:23.920
+uh you know and let me and help me just
+
+00:39:23.920 --> 00:39:24.880
+like catch up in the
+
+00:39:24.880 --> 00:39:26.800
+in the slightest you know what i mean
+
+00:39:26.800 --> 00:39:28.240
+like it was a helping hand reached
+
+00:39:28.240 --> 00:39:29.040
+behind you
+
+00:39:29.040 --> 00:39:30.640
+and i thought that was really great so
+
+00:39:30.640 --> 00:39:32.640
+cool man i was so eager to uh i mean the
+
+00:39:32.640 --> 00:39:33.760
+first thought i had was like i have to
+
+00:39:33.760 --> 00:39:35.040
+share this with my wife
+
+00:39:35.040 --> 00:39:37.359
+and uh this is this is tremendously gay
+
+00:39:37.359 --> 00:39:39.520
+i'm very i'm very sorry anybody but
+
+00:39:39.520 --> 00:39:42.000
+um i came home we set some goals she she
+
+00:39:42.000 --> 00:39:42.640
+had been
+
+00:39:42.640 --> 00:39:44.560
+uh doing jiu jitsu for a couple of
+
+00:39:44.560 --> 00:39:46.240
+months at the time or
+
+00:39:46.240 --> 00:39:48.640
+she was probably coming up on a year and
+
+00:39:48.640 --> 00:39:49.680
+she
+
+00:39:49.680 --> 00:39:51.280
+her biggest goal was that she wanted to
+
+00:39:51.280 --> 00:39:54.000
+get her blue belt in jiu jitsu this year
+
+00:39:54.000 --> 00:39:55.599
+yeah and we're at a place where that's
+
+00:39:55.599 --> 00:39:57.119
+kind of difficult to do
+
+00:39:57.119 --> 00:39:59.599
+it's it's way more than just showing up
+
+00:39:59.599 --> 00:40:00.240
+um
+
+00:40:00.240 --> 00:40:03.280
+and then everything shut down
+
+00:40:03.280 --> 00:40:06.240
+and i mean gym's shut down but like we
+
+00:40:06.240 --> 00:40:07.599
+were we were locked out of training for
+
+00:40:07.599 --> 00:40:08.960
+at least three months
+
+00:40:08.960 --> 00:40:12.160
+and the all she could think about
+
+00:40:12.160 --> 00:40:13.440
+was that this was something that she
+
+00:40:13.440 --> 00:40:14.960
+wanted for herself outside of just
+
+00:40:14.960 --> 00:40:16.560
+providing for a family
+
+00:40:16.560 --> 00:40:19.839
+and she uh she was she forced me to
+
+00:40:19.839 --> 00:40:20.880
+train with her at home
+
+00:40:20.880 --> 00:40:22.800
+like it was constant she had this drive
+
+00:40:22.800 --> 00:40:24.960
+that i've never seen in her before
+
+00:40:24.960 --> 00:40:27.839
+and uh by the time you know jim's like
+
+00:40:27.839 --> 00:40:29.119
+half opened back up
+
+00:40:29.119 --> 00:40:32.640
+uh in the summer like in like in august
+
+00:40:32.640 --> 00:40:34.400
+we got back and it was like people were
+
+00:40:34.400 --> 00:40:36.000
+like holy [ __ ] like people
+
+00:40:36.000 --> 00:40:37.839
+could not believe the way that she had
+
+00:40:37.839 --> 00:40:39.520
+progressed while not being allowed
+
+00:40:39.520 --> 00:40:41.359
+inside of his jiu jitsu gym
+
+00:40:41.359 --> 00:40:44.400
+um and then uh last week she got her
+
+00:40:44.400 --> 00:40:45.760
+blue belt
+
+00:40:45.760 --> 00:40:47.839
+oh dude that's awesome man so she did
+
+00:40:47.839 --> 00:40:49.200
+well she said what felt like a lofty
+
+00:40:49.200 --> 00:40:49.680
+goal
+
+00:40:49.680 --> 00:40:51.359
+and then it became an impossible goal
+
+00:40:51.359 --> 00:40:53.040
+and then she still did it and the entire
+
+00:40:53.040 --> 00:40:54.640
+time she was driven by
+
+00:40:54.640 --> 00:40:56.240
+uh this process that you kind of kicked
+
+00:40:56.240 --> 00:40:58.079
+off for us and she wanted me to thank
+
+00:40:58.079 --> 00:40:59.680
+you specifically for her also shout out
+
+00:40:59.680 --> 00:41:00.800
+mj well
+
+00:41:00.800 --> 00:41:03.040
+well hey man i i super appreciate that
+
+00:41:03.040 --> 00:41:04.560
+and honestly please return
+
+00:41:04.560 --> 00:41:06.480
+the the gratitude to her because
+
+00:41:06.480 --> 00:41:07.839
+honestly that's the cool thing about
+
+00:41:07.839 --> 00:41:09.119
+it's like
+
+00:41:09.119 --> 00:41:10.880
+there's no hierarchy here right it's
+
+00:41:10.880 --> 00:41:12.720
+it's it's a t it's a circle it's not
+
+00:41:12.720 --> 00:41:14.079
+it's not a triangle man
+
+00:41:14.079 --> 00:41:17.520
+and please thank her for me because
+
+00:41:17.520 --> 00:41:19.200
+it doesn't matter who gets the wins
+
+00:41:19.200 --> 00:41:20.720
+right that always reminds us so it's
+
+00:41:20.720 --> 00:41:22.240
+like oh shoot yeah like i've got a blue
+
+00:41:22.240 --> 00:41:23.520
+belt in my head and it's like yeah i'm a
+
+00:41:23.520 --> 00:41:24.160
+little down
+
+00:41:24.160 --> 00:41:26.560
+and we all have that so please i i mean
+
+00:41:26.560 --> 00:41:27.760
+that sincerely it's a
+
+00:41:27.760 --> 00:41:29.680
+that's a that's a huge compliment um and
+
+00:41:29.680 --> 00:41:31.119
+i and i throw the compliment right back
+
+00:41:31.119 --> 00:41:31.760
+at her and
+
+00:41:31.760 --> 00:41:33.280
+honestly the best way to return the
+
+00:41:33.280 --> 00:41:36.160
+compliment is keep on doing that stuff
+
+00:41:36.160 --> 00:41:37.760
+because the world needs more of that man
+
+00:41:37.760 --> 00:41:40.000
+and and i gotta give you credit because
+
+00:41:40.000 --> 00:41:41.920
+you gave her what i call a show-stopping
+
+00:41:41.920 --> 00:41:43.760
+question like there's very simple
+
+00:41:43.760 --> 00:41:45.200
+questions in life where it just
+
+00:41:45.200 --> 00:41:46.960
+it's a show-stopping question it's so
+
+00:41:46.960 --> 00:41:48.720
+simple it's like if you've ever been
+
+00:41:48.720 --> 00:41:50.079
+go up to your life and say hey what are
+
+00:41:50.079 --> 00:41:52.000
+your goals you know what are your dreams
+
+00:41:52.000 --> 00:41:52.960
+you know um what do you want to
+
+00:41:52.960 --> 00:41:54.319
+accomplish what are you passionate about
+
+00:41:54.319 --> 00:41:55.920
+and you can say that to anybody and then
+
+00:41:55.920 --> 00:41:56.960
+they kind of look at you like you're
+
+00:41:56.960 --> 00:41:57.599
+weird
+
+00:41:57.599 --> 00:41:58.640
+you know it's like what do you mean like
+
+00:41:58.640 --> 00:42:00.079
+who are you to ask me that question it's
+
+00:42:00.079 --> 00:42:01.440
+like yeah let's get past that like to
+
+00:42:01.440 --> 00:42:02.640
+pass the weird little emotional bump
+
+00:42:02.640 --> 00:42:03.839
+they just felt it's like
+
+00:42:03.839 --> 00:42:04.880
+you know what are you passionate about
+
+00:42:04.880 --> 00:42:06.720
+and then all of a sudden dude i've asked
+
+00:42:06.720 --> 00:42:08.800
+that question to people and they tear up
+
+00:42:08.800 --> 00:42:09.920
+because they haven't been asked that
+
+00:42:09.920 --> 00:42:12.079
+[ __ ] question in 20 years
+
+00:42:12.079 --> 00:42:13.280
+and then all of a sudden it's like okay
+
+00:42:13.280 --> 00:42:15.200
+well hey how do you write that down cool
+
+00:42:15.200 --> 00:42:16.560
+you want to do that oh awesome write it
+
+00:42:16.560 --> 00:42:17.119
+down then
+
+00:42:17.119 --> 00:42:19.359
+sure enough like two days later every
+
+00:42:19.359 --> 00:42:21.200
+single time i receive a text message or
+
+00:42:21.200 --> 00:42:21.920
+an email
+
+00:42:21.920 --> 00:42:24.079
+and it's like dude i i did it you know i
+
+00:42:24.079 --> 00:42:25.520
+took a little step it's like you know
+
+00:42:25.520 --> 00:42:26.560
+matt i mean i
+
+00:42:26.560 --> 00:42:28.960
+you know matt sent a text today to our
+
+00:42:28.960 --> 00:42:30.400
+weight loss group that we have and
+
+00:42:30.400 --> 00:42:32.400
+you know he said uh he said that he went
+
+00:42:32.400 --> 00:42:34.000
+down another another belt buckle
+
+00:42:34.000 --> 00:42:36.800
+loop you know and that's like itself i
+
+00:42:36.800 --> 00:42:38.319
+only had two belts oh [ __ ]
+
+00:42:38.319 --> 00:42:40.880
+i had two belts i had two belts and only
+
+00:42:40.880 --> 00:42:41.520
+one of them
+
+00:42:41.520 --> 00:42:44.480
+was like fat enough for me so then i
+
+00:42:44.480 --> 00:42:46.079
+through doing the weight loss thing with
+
+00:42:46.079 --> 00:42:46.400
+you
+
+00:42:46.400 --> 00:42:47.920
+i remember i i couldn't find my other
+
+00:42:47.920 --> 00:42:49.119
+belt and i was like damn it my other
+
+00:42:49.119 --> 00:42:49.680
+belt like
+
+00:42:49.680 --> 00:42:50.880
+i can't even like breathe when i'm
+
+00:42:50.880 --> 00:42:52.720
+wearing it i took it out of the closet
+
+00:42:52.720 --> 00:42:53.680
+put it on
+
+00:42:53.680 --> 00:42:55.680
+comfortable fit i was like wow man you
+
+00:42:55.680 --> 00:42:57.440
+have a great neck v going on right now
+
+00:42:57.440 --> 00:43:00.240
+coming out of the top of your sweater
+
+00:43:00.240 --> 00:43:02.560
+phenomenal dude look at that hey that's
+
+00:43:02.560 --> 00:43:05.359
+a jacked throat
+
+00:43:06.560 --> 00:43:08.800
+you got a killer trap slope right now
+
+00:43:08.800 --> 00:43:10.480
+thanks bro appreciate it man
+
+00:43:10.480 --> 00:43:11.920
+two things uh wes i wanted to ask you
+
+00:43:11.920 --> 00:43:13.440
+like when you when you've asked people
+
+00:43:13.440 --> 00:43:14.640
+what they're passionate about
+
+00:43:14.640 --> 00:43:17.359
+and they react back strongly by one
+
+00:43:17.359 --> 00:43:18.079
+telling you
+
+00:43:18.079 --> 00:43:20.079
+opening up and just letting it fly out
+
+00:43:20.079 --> 00:43:21.440
+and also having tears in their eyes has
+
+00:43:21.440 --> 00:43:27.839
+anybody ever said dog porn
+
+00:43:28.640 --> 00:43:30.480
+you know five to ten percent of the
+
+00:43:30.480 --> 00:43:32.000
+sample size but yeah you know that's
+
+00:43:32.000 --> 00:43:32.400
+fair
+
+00:43:32.400 --> 00:43:33.920
+and that's the thing man you can't judge
+
+00:43:33.920 --> 00:43:36.240
+you cannot judge i could say my 911 part
+
+00:43:36.240 --> 00:43:37.680
+two without you
+
+00:43:37.680 --> 00:43:39.839
+i want to ask you like like um on a
+
+00:43:39.839 --> 00:43:41.440
+serious note you said that your wife
+
+00:43:41.440 --> 00:43:44.319
+um did not have an inferiority complex
+
+00:43:44.319 --> 00:43:44.640
+but
+
+00:43:44.640 --> 00:43:46.319
+uh do you think it would be fair to say
+
+00:43:46.319 --> 00:43:48.480
+that seeing you set the bar so high that
+
+00:43:48.480 --> 00:43:51.760
+she may have had an inferiority complex
+
+00:43:51.760 --> 00:43:55.040
+no i don't i don't actually
+
+00:43:59.040 --> 00:44:00.800
+please do not let my wife hear you say
+
+00:44:00.800 --> 00:44:04.000
+that she has a inferiority complex
+
+00:44:04.000 --> 00:44:09.760
+i'll let sleeping dog porn lie
+
+00:44:09.760 --> 00:44:12.079
+the thing that's funny is like uh so you
+
+00:44:12.079 --> 00:44:13.280
+know again
+
+00:44:13.280 --> 00:44:15.200
+i always my i have a critical i i think
+
+00:44:15.200 --> 00:44:16.640
+critically a lot of times and i always
+
+00:44:16.640 --> 00:44:17.680
+like i'm always like
+
+00:44:17.680 --> 00:44:19.839
+weary for somebody in the shadows being
+
+00:44:19.839 --> 00:44:21.599
+like you're [ __ ] gay
+
+00:44:21.599 --> 00:44:23.520
+like that's that is in my head but it's
+
+00:44:23.520 --> 00:44:24.720
+like so i always construct counter
+
+00:44:24.720 --> 00:44:26.079
+arguments when people go oh
+
+00:44:26.079 --> 00:44:28.400
+yeah that's so stupid like you wouldn't
+
+00:44:28.400 --> 00:44:30.400
+want to say cool yeah i get it but like
+
+00:44:30.400 --> 00:44:32.160
+dude like you don't really know
+
+00:44:32.160 --> 00:44:33.599
+you know i think what's the alternative
+
+00:44:33.599 --> 00:44:35.440
+to not having like a self like a
+
+00:44:35.440 --> 00:44:38.079
+meaningful self-directed purpose to life
+
+00:44:38.079 --> 00:44:38.800
+is you know
+
+00:44:38.800 --> 00:44:41.280
+is like the alternative to that is just
+
+00:44:41.280 --> 00:44:42.480
+you know what i had
+
+00:44:42.480 --> 00:44:43.680
+pretty much my whole life before that
+
+00:44:43.680 --> 00:44:44.880
+for the most part like here and there
+
+00:44:44.880 --> 00:44:46.720
+i'd get little glimpses of it
+
+00:44:46.720 --> 00:44:48.480
+of not living like that but it was just
+
+00:44:48.480 --> 00:44:50.640
+that like existential
+
+00:44:50.640 --> 00:44:52.720
+floating just like what am i doing with
+
+00:44:52.720 --> 00:44:54.720
+my time or like you know i do like a
+
+00:44:54.720 --> 00:44:55.920
+little bit of work
+
+00:44:55.920 --> 00:44:57.520
+but then like kind of like like rain you
+
+00:44:57.520 --> 00:44:58.720
+were saying like you got a thing done
+
+00:44:58.720 --> 00:44:59.520
+you wanted to do
+
+00:44:59.520 --> 00:45:00.800
+so the next 20 minutes you could just
+
+00:45:00.800 --> 00:45:02.480
+[ __ ] off my problem was like i wanted to
+
+00:45:02.480 --> 00:45:03.440
+do all this stuff but i wasn't
+
+00:45:03.440 --> 00:45:04.880
+disciplined or structured at all
+
+00:45:04.880 --> 00:45:06.480
+so i'd be like haunted by all these
+
+00:45:06.480 --> 00:45:08.640
+projects and i would like kind of tinker
+
+00:45:08.640 --> 00:45:09.119
+with them
+
+00:45:09.119 --> 00:45:11.760
+never show anybody and then kind of like
+
+00:45:11.760 --> 00:45:13.680
+go chill and kind of like waste time
+
+00:45:13.680 --> 00:45:14.960
+procrastinate and then
+
+00:45:14.960 --> 00:45:16.400
+i just always felt horrible like i
+
+00:45:16.400 --> 00:45:17.680
+wasn't getting anything done even when i
+
+00:45:17.680 --> 00:45:19.359
+went to relax it when i was relaxing i
+
+00:45:19.359 --> 00:45:20.480
+think about the work that i should be
+
+00:45:20.480 --> 00:45:21.680
+doing and when i'm doing the like the
+
+00:45:21.680 --> 00:45:23.040
+kind of the work i'd be like i should
+
+00:45:23.040 --> 00:45:23.760
+just chill
+
+00:45:23.760 --> 00:45:25.040
+so i was always in this kind of like you
+
+00:45:25.040 --> 00:45:26.640
+know nether realm of like kind of half
+
+00:45:26.640 --> 00:45:27.760
+doing stuff
+
+00:45:27.760 --> 00:45:29.040
+and then once you like once i put
+
+00:45:29.040 --> 00:45:31.119
+structure on that it's like like wes was
+
+00:45:31.119 --> 00:45:32.880
+saying before like you know
+
+00:45:32.880 --> 00:45:34.480
+athletes have four quarters so i give
+
+00:45:34.480 --> 00:45:36.319
+myself that time like five o'clock comes
+
+00:45:36.319 --> 00:45:38.000
+i'm done i don't care what happened i'm
+
+00:45:38.000 --> 00:45:39.520
+done i shut down i go hang out with my
+
+00:45:39.520 --> 00:45:40.240
+family
+
+00:45:40.240 --> 00:45:41.599
+um you know and every now and again
+
+00:45:41.599 --> 00:45:42.880
+they'll take a little circumstance we'll
+
+00:45:42.880 --> 00:45:44.240
+go like an hour later but for the most
+
+00:45:44.240 --> 00:45:45.040
+part it's like
+
+00:45:45.040 --> 00:45:47.040
+i have my on time and i have my off time
+
+00:45:47.040 --> 00:45:48.079
+dude it's like
+
+00:45:48.079 --> 00:45:49.440
+and maybe it's just for like working for
+
+00:45:49.440 --> 00:45:50.560
+yourself you need it because you know
+
+00:45:50.560 --> 00:45:51.760
+when you're at a job it's very clear
+
+00:45:51.760 --> 00:45:52.560
+when you're done
+
+00:45:52.560 --> 00:45:53.839
+but for me like i don't know what you
+
+00:45:53.839 --> 00:45:54.960
+know i don't really know when i'm done
+
+00:45:54.960 --> 00:45:56.400
+when i added the structure to that it
+
+00:45:56.400 --> 00:45:57.680
+took away from that just kind of like
+
+00:45:57.680 --> 00:45:59.119
+floating what's the point of life
+
+00:45:59.119 --> 00:46:00.480
+feeling and then i
+
+00:46:00.480 --> 00:46:01.680
+i feel like you know when you see like
+
+00:46:01.680 --> 00:46:03.599
+pictures of the saints with like the
+
+00:46:03.599 --> 00:46:04.880
+yellow thing around their head i just
+
+00:46:04.880 --> 00:46:06.240
+like walk around all day like i have
+
+00:46:06.240 --> 00:46:06.800
+purpose i
+
+00:46:06.800 --> 00:46:08.880
+you know i did you know it just feels
+
+00:46:08.880 --> 00:46:10.400
+nice man
+
+00:46:10.400 --> 00:46:13.760
+so oh yeah it really does um and that
+
+00:46:13.760 --> 00:46:14.640
+matt that visuals
+
+00:46:14.640 --> 00:46:19.040
+is nice as well but uh uh yeah i think
+
+00:46:19.040 --> 00:46:20.160
+like you're saying walking around with
+
+00:46:20.160 --> 00:46:22.079
+purpose it's a game changer man i i
+
+00:46:22.079 --> 00:46:23.040
+think and
+
+00:46:23.040 --> 00:46:26.319
+and i say this as as somebody who
+
+00:46:26.319 --> 00:46:29.280
+the neighborhood i grew up in um for me
+
+00:46:29.280 --> 00:46:30.400
+and you guys grew up in very similar
+
+00:46:30.400 --> 00:46:31.680
+neighborhoods
+
+00:46:31.680 --> 00:46:33.520
+that i can tell you that the study of
+
+00:46:33.520 --> 00:46:35.119
+life is what saved my life
+
+00:46:35.119 --> 00:46:37.359
+like there's there's no doubt about it
+
+00:46:37.359 --> 00:46:38.480
+that
+
+00:46:38.480 --> 00:46:40.560
+learning at an early age oh if i want
+
+00:46:40.560 --> 00:46:42.640
+this all i have to do is
+
+00:46:42.640 --> 00:46:44.960
+read about it read a book about it or go
+
+00:46:44.960 --> 00:46:46.640
+and talk to somebody who's done it
+
+00:46:46.640 --> 00:46:49.000
+and you become increasingly and
+
+00:46:49.000 --> 00:46:50.640
+instantaneously
+
+00:46:50.640 --> 00:46:52.960
+understanding that you very much can
+
+00:46:52.960 --> 00:46:54.400
+change direction of things
+
+00:46:54.400 --> 00:46:56.880
+very easily and the feedback loop to
+
+00:46:56.880 --> 00:46:57.680
+reward
+
+00:46:57.680 --> 00:46:59.440
+is actually very quick now it might not
+
+00:46:59.440 --> 00:47:01.200
+be the north star vision
+
+00:47:01.200 --> 00:47:03.839
+reward right but i guarantee you it's
+
+00:47:03.839 --> 00:47:04.880
+like if you've been trying to lose
+
+00:47:04.880 --> 00:47:05.839
+weight
+
+00:47:05.839 --> 00:47:06.960
+you know for the last five years
+
+00:47:06.960 --> 00:47:08.880
+whatever it is you step into a gym you
+
+00:47:08.880 --> 00:47:10.160
+do one bicep curl
+
+00:47:10.160 --> 00:47:13.359
+one one your arm looks different
+
+00:47:13.359 --> 00:47:15.440
+immediately right so it's not that you
+
+00:47:15.440 --> 00:47:17.520
+have to lose 100 pounds by tomorrow it's
+
+00:47:17.520 --> 00:47:19.440
+like go and do one bicep curl look at
+
+00:47:19.440 --> 00:47:21.119
+yourself in the mirror like oh [ __ ] i
+
+00:47:21.119 --> 00:47:22.559
+can actually do this and it actually
+
+00:47:22.559 --> 00:47:24.480
+does create a change so it's actually
+
+00:47:24.480 --> 00:47:26.240
+pretty simple stuff man
+
+00:47:26.240 --> 00:47:27.599
+i'm going to create a measurement device
+
+00:47:27.599 --> 00:47:29.359
+that lets you know how close to your own
+
+00:47:29.359 --> 00:47:31.119
+dick you can get your mouth
+
+00:47:31.119 --> 00:47:34.160
+and then what it'd be cool to iterate it
+
+00:47:34.160 --> 00:47:35.520
+so that like i get a little bit closer
+
+00:47:35.520 --> 00:47:36.559
+next week you know what i mean and
+
+00:47:36.559 --> 00:47:37.839
+you're just you're just cutting down the
+
+00:47:37.839 --> 00:47:39.920
+distance between yourself suck attempt
+
+00:47:39.920 --> 00:47:41.359
+and your own
+
+00:47:41.359 --> 00:47:44.160
+wiener and uh i don't know i feel like
+
+00:47:44.160 --> 00:47:45.359
+that would be helpful for people
+
+00:47:45.359 --> 00:47:47.520
+i'd be doing people service dude i think
+
+00:47:47.520 --> 00:47:48.720
+that's what bridges yeah that's what
+
+00:47:48.720 --> 00:47:49.520
+bridges are for
+
+00:47:49.520 --> 00:47:50.800
+do you ever do like the bridge where you
+
+00:47:50.800 --> 00:47:53.119
+kind of like hips to the sky
+
+00:47:53.119 --> 00:47:56.319
+that muscle one simple trick that might
+
+00:47:56.319 --> 00:47:57.599
+help get you there is
+
+00:47:57.599 --> 00:47:59.520
+i'll put one end of a twizzler in my
+
+00:47:59.520 --> 00:48:03.119
+mouth and the other end of my dick hole
+
+00:48:03.760 --> 00:48:06.240
+that's good and then what mike what's
+
+00:48:06.240 --> 00:48:07.440
+next after that
+
+00:48:07.440 --> 00:48:10.720
+uh you keep eating until you're full
+
+00:48:10.720 --> 00:48:12.160
+well you can measure you can count the
+
+00:48:12.160 --> 00:48:13.440
+little lines in the twizzler and that
+
+00:48:13.440 --> 00:48:14.880
+tells you the progress you're making i
+
+00:48:14.880 --> 00:48:18.000
+don't know those are vulnerable lines
+
+00:48:18.000 --> 00:48:20.319
+yeah the distance between your dick and
+
+00:48:20.319 --> 00:48:21.119
+your own mouth
+
+00:48:21.119 --> 00:48:22.800
+is called twizzes they're not inches or
+
+00:48:22.800 --> 00:48:25.119
+centimeters
+
+00:48:31.200 --> 00:48:32.640
+but yeah man but dude i'm telling you i
+
+00:48:32.640 --> 00:48:36.079
+sound like a broken record but it's like
+
+00:48:36.160 --> 00:48:38.319
+it's just just giving your just again
+
+00:48:38.319 --> 00:48:40.000
+snatching your awareness is a big thing
+
+00:48:40.000 --> 00:48:41.599
+too like having your
+
+00:48:41.599 --> 00:48:43.280
+conscious commanding your own conscious
+
+00:48:43.280 --> 00:48:44.480
+awareness because we really almost give
+
+00:48:44.480 --> 00:48:45.680
+it away it's like i don't want it i
+
+00:48:45.680 --> 00:48:46.880
+don't want to pay full attention to
+
+00:48:46.880 --> 00:48:48.160
+what's going on it's too much you know
+
+00:48:48.160 --> 00:48:49.359
+it's too much to think about
+
+00:48:49.359 --> 00:48:51.040
+but so you start snatching that back in
+
+00:48:51.040 --> 00:48:52.400
+little five minute increments and then
+
+00:48:52.400 --> 00:48:52.880
+like
+
+00:48:52.880 --> 00:48:55.119
+handle one situation totally conscious
+
+00:48:55.119 --> 00:48:56.640
+of it like dude i'll handle
+
+00:48:56.640 --> 00:48:58.400
+like you know a heated discussion or you
+
+00:48:58.400 --> 00:49:00.160
+know argument with my wife i was
+
+00:49:00.160 --> 00:49:01.680
+basically vacant from my mom i would
+
+00:49:01.680 --> 00:49:04.240
+just sit there and just be like
+
+00:49:04.240 --> 00:49:05.440
+start fighting like i've been able to
+
+00:49:05.440 --> 00:49:07.839
+like hear a thing while i'm angry be
+
+00:49:07.839 --> 00:49:08.160
+like
+
+00:49:08.160 --> 00:49:10.559
+man i'm kind of pissed oh this is
+
+00:49:10.559 --> 00:49:12.160
+annoying and then you know
+
+00:49:12.160 --> 00:49:13.839
+get out my part of it and it's like dude
+
+00:49:13.839 --> 00:49:15.760
+you start reclaiming those like areas of
+
+00:49:15.760 --> 00:49:17.280
+your life that for me were just mostly
+
+00:49:17.280 --> 00:49:17.760
+like
+
+00:49:17.760 --> 00:49:20.240
+unconscious spazz mode it's like dude it
+
+00:49:20.240 --> 00:49:21.680
+makes it's like the littlest
+
+00:49:21.680 --> 00:49:23.440
+freest things that make like these
+
+00:49:23.440 --> 00:49:24.960
+humongous changes in your life and dude
+
+00:49:24.960 --> 00:49:25.520
+it's it's been
+
+00:49:25.520 --> 00:49:28.720
+pretty tight yeah i think the
+
+00:49:28.720 --> 00:49:31.040
+way matt put it last time uh for our
+
+00:49:31.040 --> 00:49:32.800
+podcast was
+
+00:49:32.800 --> 00:49:34.240
+one of his goals is just to touch the
+
+00:49:34.240 --> 00:49:35.839
+habit you know just go and
+
+00:49:35.839 --> 00:49:37.520
+do whatever the smallest unit is and all
+
+00:49:37.520 --> 00:49:38.880
+of a sudden that could be
+
+00:49:38.880 --> 00:49:40.160
+that could be the catalyst that all of a
+
+00:49:40.160 --> 00:49:41.440
+sudden like you know mike you were
+
+00:49:41.440 --> 00:49:42.079
+saying
+
+00:49:42.079 --> 00:49:43.359
+it's like i couldn't get this done i was
+
+00:49:43.359 --> 00:49:44.720
+going to try to do it and then i set a
+
+00:49:44.720 --> 00:49:46.000
+time block and you know
+
+00:49:46.000 --> 00:49:47.440
+boom i got all this done but it's like
+
+00:49:47.440 --> 00:49:48.800
+just touch it sometimes you can only
+
+00:49:48.800 --> 00:49:50.559
+touch it for a minute but other times
+
+00:49:50.559 --> 00:49:51.920
+you know you might you may get a full
+
+00:49:51.920 --> 00:49:53.440
+hour and i know there's there's a
+
+00:49:53.440 --> 00:49:54.319
+competition there
+
+00:49:54.319 --> 00:49:59.760
+seeing that yeah
+
+00:49:59.760 --> 00:50:02.559
+sorry yeah i was that's hard it's hard
+
+00:50:02.559 --> 00:50:03.520
+to not smile it's
+
+00:50:03.520 --> 00:50:06.160
+just only tough this dude this is i got
+
+00:50:06.160 --> 00:50:07.599
+this from wes to be honest
+
+00:50:07.599 --> 00:50:10.160
+this is my daily habit actually wes made
+
+00:50:10.160 --> 00:50:11.599
+it like an actual functioning like
+
+00:50:11.599 --> 00:50:12.000
+program
+
+00:50:12.000 --> 00:50:13.920
+daily habit scorecard but it's like for
+
+00:50:13.920 --> 00:50:15.200
+my purposes i just write
+
+00:50:15.200 --> 00:50:18.000
+it's m meditation journaling writing
+
+00:50:18.000 --> 00:50:18.800
+reading
+
+00:50:18.800 --> 00:50:22.559
+and exercise uh veggies an act of love
+
+00:50:22.559 --> 00:50:24.000
+and getting proper sleep and like when
+
+00:50:24.000 --> 00:50:25.359
+he was saying touch the habits if like
+
+00:50:25.359 --> 00:50:27.359
+damn i'm on the time crunch i i have to
+
+00:50:27.359 --> 00:50:28.319
+write today because it's one of my
+
+00:50:28.319 --> 00:50:28.960
+habits
+
+00:50:28.960 --> 00:50:30.480
+dude i'll write like a paragraph and i'm
+
+00:50:30.480 --> 00:50:32.000
+like did it i i
+
+00:50:32.000 --> 00:50:33.440
+interacted with this thing that i want
+
+00:50:33.440 --> 00:50:35.359
+to do i'm off to something else that way
+
+00:50:35.359 --> 00:50:36.640
+there's not all that guilt or like oh i
+
+00:50:36.640 --> 00:50:37.440
+miss this thing
+
+00:50:37.440 --> 00:50:39.119
+you know it's like you're not like a
+
+00:50:39.119 --> 00:50:40.640
+robot you can kind of contract and
+
+00:50:40.640 --> 00:50:42.079
+expand the thing however you want
+
+00:50:42.079 --> 00:50:43.359
+but there is something to be said like
+
+00:50:43.359 --> 00:50:44.880
+dude i've gotten so much more writing
+
+00:50:44.880 --> 00:50:46.400
+done since i started kind of structuring
+
+00:50:46.400 --> 00:50:47.760
+my days like this
+
+00:50:47.760 --> 00:50:51.440
+100 it's very tight
+
+00:50:51.440 --> 00:50:53.280
+um we're coming up to about the time
+
+00:50:53.280 --> 00:50:55.040
+that we should uh hop over to the
+
+00:50:55.040 --> 00:50:56.480
+patreon do you guys have about another
+
+00:50:56.480 --> 00:50:58.400
+hour to chill with us
+
+00:50:58.400 --> 00:51:00.880
+yeah yeah is that cool you got it but
+
+00:51:00.880 --> 00:51:02.480
+all right yep that works
+
+00:51:02.480 --> 00:51:05.280
+yeah if it's cool with you guys i i do
+
+00:51:05.280 --> 00:51:06.400
+i'll probably have to run it
+
+00:51:06.400 --> 00:51:07.599
+after that hour if that's cool with you
+
+00:51:07.599 --> 00:51:09.680
+guys that's absolutely fine thank you so
+
+00:51:09.680 --> 00:51:11.520
+much for um being with us so far
+
+00:51:11.520 --> 00:51:13.920
+um of course man uh this is a quick
+
+00:51:13.920 --> 00:51:15.040
+reminder you can
+
+00:51:15.040 --> 00:51:16.640
+you can join us for an additional hour
+
+00:51:16.640 --> 00:51:18.079
+of this podcast uh
+
+00:51:18.079 --> 00:51:22.480
+this week and every week at patreon.com
+
+00:51:22.480 --> 00:51:23.920
+[ __ ] i think it's that's what it is god
+
+00:51:23.920 --> 00:51:25.920
+damn it every week i forget what it is
+
+00:51:25.920 --> 00:51:28.800
+right now as little as a dollar a month
+
+00:51:28.800 --> 00:51:31.359
+you get you get twice the podcast and uh
+
+00:51:31.359 --> 00:51:33.119
+more content on top of that uh real
+
+00:51:33.119 --> 00:51:36.160
+quick i want to shout out her boy um
+
+00:51:36.160 --> 00:51:39.359
+uh go to his instagram instagram.com i i
+
+00:51:39.359 --> 00:51:41.359
+want to say it's aman
+
+00:51:41.359 --> 00:51:45.760
+forge it's a-h-m-a-n-n underscore forge
+
+00:51:45.760 --> 00:51:48.400
+your boy [ __ ] mailed knives to our
+
+00:51:48.400 --> 00:51:49.520
+house
+
+00:51:49.520 --> 00:51:53.520
+my house handmade damascus steel
+
+00:51:53.520 --> 00:51:55.599
+handmade uh handles which are my
+
+00:51:55.599 --> 00:51:56.720
+favorite part
+
+00:51:56.720 --> 00:51:59.760
+[ __ ] uh the dude it's a [ __ ]
+
+00:51:59.760 --> 00:52:01.839
+he's a [ __ ] plumber who just wants to
+
+00:52:01.839 --> 00:52:02.880
+make knives
+
+00:52:02.880 --> 00:52:04.319
+so he just started doing it he put him
+
+00:52:04.319 --> 00:52:06.240
+on the screen plate he hit us up
+
+00:52:06.240 --> 00:52:08.480
+uh i'm probably going to interview him
+
+00:52:08.480 --> 00:52:11.200
+on my twitch channel this week
+
+00:52:11.200 --> 00:52:13.040
+um just because i wanted to tell i
+
+00:52:13.040 --> 00:52:14.400
+wanted to tell me about these blades and
+
+00:52:14.400 --> 00:52:16.160
+what kind of secret powers he imbued in
+
+00:52:16.160 --> 00:52:16.480
+them
+
+00:52:16.480 --> 00:52:17.920
+what kind of i don't know what kind of
+
+00:52:17.920 --> 00:52:20.240
+slurs he shouted into the moltens
+
+00:52:20.240 --> 00:52:22.960
+the molten damascus to give these extra
+
+00:52:22.960 --> 00:52:25.040
+power
+
+00:52:25.040 --> 00:52:26.720
+so i'm going to talk to the boy this
+
+00:52:26.720 --> 00:52:28.160
+week and i just wanted to thank him
+
+00:52:28.160 --> 00:52:29.040
+again
+
+00:52:29.040 --> 00:52:32.480
+um matt and wes thank you thank you for
+
+00:52:32.480 --> 00:52:33.760
+being on the uh
+
+00:52:33.760 --> 00:52:36.559
+the normal episode uh and thank you for
+
+00:52:36.559 --> 00:52:37.280
+everything
+
+00:52:37.280 --> 00:52:39.200
+uh matt i know i i've said it a million
+
+00:52:39.200 --> 00:52:40.640
+times i'll say it a million more
+
+00:52:40.640 --> 00:52:43.359
+uh you you got us off the ground and uh
+
+00:52:43.359 --> 00:52:45.119
+i love you for it you're the [ __ ] man
+
+00:52:45.119 --> 00:52:46.559
+i love you guys i'm happy you did it and
+
+00:52:46.559 --> 00:52:47.920
+honestly you guys gave me the gift of
+
+00:52:47.920 --> 00:52:48.640
+like
+
+00:52:48.640 --> 00:52:50.640
+you know showing you can be somewhat
+
+00:52:50.640 --> 00:52:52.400
+earnest and not always emotionally
+
+00:52:52.400 --> 00:52:53.440
+guarded and like
+
+00:52:53.440 --> 00:52:55.119
+you're [ __ ] good so dude that was
+
+00:52:55.119 --> 00:52:57.119
+like that set off a bunch of [ __ ] in me
+
+00:52:57.119 --> 00:52:58.559
+and helped me do a bunch of stuff that i
+
+00:52:58.559 --> 00:53:00.000
+wanted to do so you know it was just
+
+00:53:00.000 --> 00:53:02.480
+a we're basically 69 and right now dude
+
+00:53:02.480 --> 00:53:03.040
+if that
+
+00:53:03.040 --> 00:53:04.880
+if that was all we ever did it would all
+
+00:53:04.880 --> 00:53:07.599
+be worth it man
+
+00:53:08.079 --> 00:53:09.920
+dude wes i i'm thankful for every second
+
+00:53:09.920 --> 00:53:12.079
+of your time i've ever had
+
+00:53:12.079 --> 00:53:14.400
+hey right back at you guys i i mean that
+
+00:53:14.400 --> 00:53:16.000
+um sincerely like
+
+00:53:16.000 --> 00:53:17.839
+the this this big team that we're all
+
+00:53:17.839 --> 00:53:20.000
+creating together is just starting
+
+00:53:20.000 --> 00:53:21.359
+it'll be really cool to see where we are
+
+00:53:21.359 --> 00:53:23.200
+five years from now for sure dude for
+
+00:53:23.200 --> 00:53:24.160
+sure oh man
+
+00:53:24.160 --> 00:53:25.359
+and we're just getting we're just
+
+00:53:25.359 --> 00:53:26.480
+getting into it the patreon is going to
+
+00:53:26.480 --> 00:53:27.440
+be lit i've been i just
+
+00:53:27.440 --> 00:53:29.040
+saved myself dude guys let's make a pact
+
+00:53:29.040 --> 00:53:30.880
+right now in five years let's take one
+
+00:53:30.880 --> 00:53:32.160
+of those pictures on the beach where
+
+00:53:32.160 --> 00:53:33.359
+we're all wearing khakis and white
+
+00:53:33.359 --> 00:53:34.420
+shirts sucking their own dicks
+
+00:53:34.420 --> 00:53:37.119
+[Laughter]
+
+00:53:37.119 --> 00:53:40.000
+well actually no sorry go back no please
+
+00:53:40.000 --> 00:53:41.839
+finish wes i can't wait to hear this um
+
+00:53:41.839 --> 00:53:42.400
+i i
+
+00:53:42.400 --> 00:53:43.920
+i want to put it out there in the world
+
+00:53:43.920 --> 00:53:46.000
+for like just as proof
+
+00:53:46.000 --> 00:53:48.480
+this is going to work that next year we
+
+00:53:48.480 --> 00:53:50.000
+will be having a vacation
+
+00:53:50.000 --> 00:53:53.359
+in newport beach together in big ass
+
+00:53:53.359 --> 00:53:56.000
+awesome house as a group bring the kids
+
+00:53:56.000 --> 00:53:57.200
+bring all that stuff so
+
+00:53:57.200 --> 00:54:00.079
+uh there will be pictures of uh of that
+
+00:54:00.079 --> 00:54:00.800
+that win
+
+00:54:00.800 --> 00:54:02.400
+next year so it's just a matter of
+
+00:54:02.400 --> 00:54:03.760
+figuring out the timing for everybody
+
+00:54:03.760 --> 00:54:04.480
+hell yeah
+
+00:54:04.480 --> 00:54:06.160
+hold us to it you [ __ ] [ __ ] we
+
+00:54:06.160 --> 00:54:07.599
+love you
+
+00:54:07.599 --> 00:54:08.839
+all right we'll see you guys over on the
+
+00:54:08.839 --> 00:54:10.720
+patreon wait before we go
+
+00:54:10.720 --> 00:54:12.400
+i just want to mention to everybody that
+
+00:54:12.400 --> 00:54:13.920
+tim and i have been shoveling bluetooth
+
+00:54:13.920 --> 00:54:15.599
+into our face for the past eight months
+
+00:54:15.599 --> 00:54:17.760
+and we are rock hard as we speak
+
+00:54:17.760 --> 00:54:19.119
+so if you're interested in trying blue
+
+00:54:19.119 --> 00:54:20.480
+chew you can get a free sample go to
+
+00:54:20.480 --> 00:54:21.599
+bluetooth.com
+
+00:54:21.599 --> 00:54:23.599
+promo code fat bird they'll send you
+
+00:54:23.599 --> 00:54:24.960
+some free blue chews you just gotta pay
+
+00:54:24.960 --> 00:54:26.240
+the five bucks for shipping
+
+00:54:26.240 --> 00:54:28.480
+i've tried it for a while now i love it
+
+00:54:28.480 --> 00:54:30.000
+i can't wait to [ __ ]
+
+00:54:30.000 --> 00:54:31.359
+yeah guinness already let me know that
+
+00:54:31.359 --> 00:54:32.800
+they're not gonna count myself suck
+
+00:54:32.800 --> 00:54:34.400
+attempts because that it's too much of
+
+00:54:34.400 --> 00:54:36.319
+an enhancement so
+
+00:54:36.319 --> 00:54:37.839
+take that for what you will promo code
+
+00:54:37.839 --> 00:54:39.680
+fat bird love you guys see you on the
+
+00:54:39.680 --> 00:54:41.040
+patreon
+
+00:54:41.040 --> 00:54:45.839
+that's taking pds god damn it mikey
+
+00:54:47.440 --> 00:54:51.839
+hell yeah all right i'm gonna grab a
